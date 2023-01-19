@@ -1,0 +1,33 @@
+
+body{
+    font-family: 'Nanum Myeongjo', serif;
+    text-align: center;
+}
+
+
+.a {display: block; margin: 0 auto;
+    width: 300px;
+    height: 300px; 
+    border-radius: 70%;
+   overflow: hidden; 
+   
+}
+
+/* 
+display: block; margin: 0 auto; 가운데 정렬
+이미지를 블록으로 정의한 후 위쪽과 아래쪽 여백 0
+border-radius: 테두리를 원형으로 변형
+overflow: 넘치는 부분을 숨김
+*/
+
+.b {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+/* 
+object-fit: 원본 이미지 비율을 유지한 채로 이미지 편집
+*/
+
+#c {text-align: center;}
