@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> fs</title>
+        <script type="text/javascript">
+            function doSomething(){
+                // input 태그 객체에 현재 value 속성을 읽어와서 저장
+                let a = document.getElementById('inputA').value;
+                let b = document.getElementById('inputB').value;
+                // 확인용 디버깅
+                console.log(a)
+                console.log(b)
+                // 계산 결과를 HTML 페이지에 추가
+                document.getElementById('valueA').innerHTML=a;
+                document.getElementById('valueB').innerHTML=b;
+                document.getElementById('valueC').innerHTML=Number(a)+Number(b);
+            }
+            function format() {
+                var args = Array.prototype.slice.call (arguments, 1);
+                return arguments[0].replace (/\{(\d+)\}/g, function (match, index) {
+                    return args[index];
+                });
+            }
+        </script>
+    </head>
+    <body>
+        
+        <h4>계산 입력</h4>
+        <label for="inputA">a</label>
+        <input id="inputA" value=1 onkeyup="doSomething()">
+        <label for="inputB">b</label>
+        <input id="inputB" value=2 onkeyup="doSomething()">
+        <script>console.log(inputA)</script>
+        <p><span id='valueA'>1</span> + <span id="valueB">2</span> = <span id='valueC'>3</span></p>
+
+
+        
+
+        <button value="계산2" onclick="doSomething()">계산2</button>
+        
+
+        <label for="inputA">a</label>
+        <input id="inputA" value=5>
+        <label for="inputB">b</label>
+        <input id="inputB" value=2 >
+        <script> let x = 'x';</script>
+        <script>console.log('input{}'.format(x.toUpperCase))</script>
+        
+        <p><span id='valueA'>1</span> + <span id="valueB">2</span>= <span id='valueC'>3</span>입니다.</p>
+        <input type="submit" value="계산" onclick="doSomething()"><br/>
+    </body>
+</html>
+
+

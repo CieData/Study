@@ -1,0 +1,64 @@
+<!-- HTML 태그 - 입력 관련 ======================================
+- 입력 데이터 ==> 서버(Server) 전송
+* <form> ~ </form> : 서버(Server) 전송에 관련된 태그를 받는 태그
+    - 전송관련 속성
+        * action : 데이터 처리 URL
+        * method : 입력 데이터 서버 전달방식(GET, POST)
+- 사용자로부터 입력을 받을 수 있는 태그
+* <input type='입력의 종류' name='' value='사용자에게 보여지는 값'
+         on이벤트이름='JS Code'>
+=============================================================-->
+<!DOCTYPE>
+<html>
+    <head>
+        <title>MyWeb</title>
+    </head>
+    <body>
+        <h1> 다양한 입력 태그 살펴보기 </h1><hr>
+        <h4> 아이디 입력 </h4>
+        아이디 입력 :
+        <input type="text" name="gender" id="gen" placeholder="아이디 입력"><br>
+
+        <h4> 패스워드 입력 </h4>
+        패스워드 입력 :
+        <input type="password" name="pawo" id="ps" placeholder="영어,숫자 8자리"><br>
+
+        <h4> 텍스트 입력 </h4>
+        성별 입력 :
+        <input type="text" name="gender" id="gen" value='남'><br>
+
+        <h4> 라디오 버튼 입력 1개만 선택가능</h4>
+        혈액형 입력 :<br>
+        <input type="radio" name="blood" value="A" checked>A형
+        <input type="radio" name="blood" value="B">B형
+        <input type="radio" name="blood" value="AB">AB형
+        <input type="radio" name="blood" value="O">O형
+
+        <h4> 체크 박스 버튼 입력 여러개 선택가능</h4>
+        취미 입력 :<br>
+        <input type="checkbox" name="hobby" value="요리" checked>요리
+        <input type="checkbox" name="hobby" value="게임">게임
+        <input type="checkbox" name="hobby" value="등산" disabled>등산
+        <input type="checkbox" name="hobby" value="낚시">낚시
+        <input type="checkbox" name="hobby" value="골프">골프
+
+        <h4> 텍스트 버튼 입력 - 긴 글자 문장 입력</h4>
+        오늘의 메시지 : <br>
+        <textarea rows="20" cols="50" name="message">Happy</textarea>
+
+        <h4>버튼 입력</h4>
+        삭제 결정 :
+        <!-- 속성 on이벤트명='이벤트핸들러'-->
+        <input type="button" value="예" name="delBT" onclick="console.log('클릭')">
+        <input type="button" value="아니요" name="NdelBT" onclick="alert('no')">
+        <button value="몰라요" name="idontknow">몰라요</button>
+
+        <h4>버튼 입력</h4>
+        전송 결정 :
+        <input type="submit" name="send" value="서버로 전송">
+        <br>
+
+
+    
+    </body>
+</html>
