@@ -28,3 +28,4 @@ img3.show()
 mirrorImage = img.transpose(Image.FLIP_LEFT_RIGHT) # y축을 기준으로 x값 이동
 mirrorImage.save('lenna-mirror.png')
 
+new_york = Image.open('image folder\newyork.jpg')
