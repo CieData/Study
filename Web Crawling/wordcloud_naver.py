@@ -4,7 +4,6 @@ Naver 뉴스 워드 클라우드
 - https://everyday-tech.tistory.com/entry/쉽게-따라하는-네이버-뉴스-크롤링python-2탄
 
 '''
-
 from bs4 import BeautifulSoup
 import requests
 from konlpy.tag import Okt
