@@ -19,7 +19,6 @@ def get_titles(start_num, end_num, search_word, title_list):
     while 1:
         if start_num > end_num:
             break
-
         url = 'https://search.naver.com/search.naver?where=news&sm=tab_jum&query={}&start={}'.format(
                 search_word, start_num)
 
