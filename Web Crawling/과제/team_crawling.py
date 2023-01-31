@@ -122,7 +122,7 @@ from nltk.corpus import stopwords
 import nltk
 nltk.download('stopwords')
 english_stops = set(stopwords.words('english'))
-result2 = [word for word in result if word not in english_stops] 
+result2 = [word for word in result if word not in english_stops and not word.isdigit() and word!='•'] 
 
 count=Counter(result2)
 count
