@@ -1,0 +1,892 @@
+"Survived"_"Pclass"_"Name"_"Sex"_"Age"_"SibSp"_"Parch"_"Ticket"_"Fare"
+"1"_0_3_"Braund, Mr. Owen Harris"_"male"_22_1_0_"A/5 21171"_7.25
+"2"_1_1_"Cumings, Mrs. John Bradley (Florence Briggs Thayer)"_"female"_38_1_0_"PC 17599"_71.2833
+"3"_1_3_"Heikkinen, Miss. Laina"_"female"_26_0_0_"STON/O2. 3101282"_7.925
+"4"_1_1_"Futrelle, Mrs. Jacques Heath (Lily May Peel)"_"female"_35_1_0_"113803"_53.1
+"5"_0_3_"Allen, Mr. William Henry"_"male"_35_0_0_"373450"_8.05
+"6"_0_3_"Moran, Mr. James"_"male"_NA_0_0_"330877"_8.4583
+"7"_0_1_"McCarthy, Mr. Timothy J"_"male"_54_0_0_"17463"_51.8625
+"8"_0_3_"Palsson, Master. Gosta Leonard"_"male"_2_3_1_"349909"_21.075
+"9"_1_3_"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)"_"female"_27_0_2_"347742"_11.1333
+"10"_1_2_"Nasser, Mrs. Nicholas (Adele Achem)"_"female"_14_1_0_"237736"_30.0708
+"11"_1_3_"Sandstrom, Miss. Marguerite Rut"_"female"_4_1_1_"PP 9549"_16.7
+"12"_1_1_"Bonnell, Miss. Elizabeth"_"female"_58_0_0_"113783"_26.55
+"13"_0_3_"Saundercock, Mr. William Henry"_"male"_20_0_0_"A/5. 2151"_8.05
+"14"_0_3_"Andersson, Mr. Anders Johan"_"male"_39_1_5_"347082"_31.275
+"15"_0_3_"Vestrom, Miss. Hulda Amanda Adolfina"_"female"_14_0_0_"350406"_7.8542
+"16"_1_2_"Hewlett, Mrs. (Mary D Kingcome) "_"female"_55_0_0_"248706"_16
+"17"_0_3_"Rice, Master. Eugene"_"male"_2_4_1_"382652"_29.125
+"18"_1_2_"Williams, Mr. Charles Eugene"_"male"_NA_0_0_"244373"_13
+"19"_0_3_"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)"_"female"_31_1_0_"345763"_18
+"20"_1_3_"Masselmani, Mrs. Fatima"_"female"_NA_0_0_"2649"_7.225
+"21"_0_2_"Fynney, Mr. Joseph J"_"male"_35_0_0_"239865"_26
+"22"_1_2_"Beesley, Mr. Lawrence"_"male"_34_0_0_"248698"_13
+"23"_1_3_"McGowan, Miss. Anna \"Annie\""_"female"_15_0_0_"330923"_8.0292
+"24"_1_1_"Sloper, Mr. William Thompson"_"male"_28_0_0_"113788"_35.5
+"25"_0_3_"Palsson, Miss. Torborg Danira"_"female"_8_3_1_"349909"_21.075
+"26"_1_3_"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)"_"female"_38_1_5_"347077"_31.3875
+"27"_0_3_"Emir, Mr. Farred Chehab"_"male"_NA_0_0_"2631"_7.225
+"28"_0_1_"Fortune, Mr. Charles Alexander"_"male"_19_3_2_"19950"_263
+"29"_1_3_"O'Dwyer, Miss. Ellen \"Nellie\""_"female"_NA_0_0_"330959"_7.8792
+"30"_0_3_"Todoroff, Mr. Lalio"_"male"_NA_0_0_"349216"_7.8958
+"31"_0_1_"Uruchurtu, Don. Manuel E"_"male"_40_0_0_"PC 17601"_27.7208
+"32"_1_1_"Spencer, Mrs. William Augustus (Marie Eugenie)"_"female"_NA_1_0_"PC 17569"_146.5208
+"33"_1_3_"Glynn, Miss. Mary Agatha"_"female"_NA_0_0_"335677"_7.75
+"34"_0_2_"Wheadon, Mr. Edward H"_"male"_66_0_0_"C.A. 24579"_10.5
+"35"_0_1_"Meyer, Mr. Edgar Joseph"_"male"_28_1_0_"PC 17604"_82.1708
+"36"_0_1_"Holverson, Mr. Alexander Oskar"_"male"_42_1_0_"113789"_52
+"37"_1_3_"Mamee, Mr. Hanna"_"male"_NA_0_0_"2677"_7.2292
+"38"_0_3_"Cann, Mr. Ernest Charles"_"male"_21_0_0_"A./5. 2152"_8.05
+"39"_0_3_"Vander Planke, Miss. Augusta Maria"_"female"_18_2_0_"345764"_18
+"40"_1_3_"Nicola-Yarred, Miss. Jamila"_"female"_14_1_0_"2651"_11.2417
+"41"_0_3_"Ahlin, Mrs. Johan (Johanna Persdotter Larsson)"_"female"_40_1_0_"7546"_9.475
+"42"_0_2_"Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)"_"female"_27_1_0_"11668"_21
+"43"_0_3_"Kraeff, Mr. Theodor"_"male"_NA_0_0_"349253"_7.8958
+"44"_1_2_"Laroche, Miss. Simonne Marie Anne Andree"_"female"_3_1_2_"SC/Paris 2123"_41.5792
+"45"_1_3_"Devaney, Miss. Margaret Delia"_"female"_19_0_0_"330958"_7.8792
+"46"_0_3_"Rogers, Mr. William John"_"male"_NA_0_0_"S.C./A.4. 23567"_8.05
+"47"_0_3_"Lennon, Mr. Denis"_"male"_NA_1_0_"370371"_15.5
+"48"_1_3_"O'Driscoll, Miss. Bridget"_"female"_NA_0_0_"14311"_7.75
+"49"_0_3_"Samaan, Mr. Youssef"_"male"_NA_2_0_"2662"_21.6792
+"50"_0_3_"Arnold-Franchi, Mrs. Josef (Josefine Franchi)"_"female"_18_1_0_"349237"_17.8
+"51"_0_3_"Panula, Master. Juha Niilo"_"male"_7_4_1_"3101295"_39.6875
+"52"_0_3_"Nosworthy, Mr. Richard Cater"_"male"_21_0_0_"A/4. 39886"_7.8
+"53"_1_1_"Harper, Mrs. Henry Sleeper (Myna Haxtun)"_"female"_49_1_0_"PC 17572"_76.7292
+"54"_1_2_"Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)"_"female"_29_1_0_"2926"_26
+"55"_0_1_"Ostby, Mr. Engelhart Cornelius"_"male"_65_0_1_"113509"_61.9792
+"56"_1_1_"Woolner, Mr. Hugh"_"male"_NA_0_0_"19947"_35.5
+"57"_1_2_"Rugg, Miss. Emily"_"female"_21_0_0_"C.A. 31026"_10.5
+"58"_0_3_"Novel, Mr. Mansouer"_"male"_28.5_0_0_"2697"_7.2292
+"59"_1_2_"West, Miss. Constance Mirium"_"female"_5_1_2_"C.A. 34651"_27.75
+"60"_0_3_"Goodwin, Master. William Frederick"_"male"_11_5_2_"CA 2144"_46.9
+"61"_0_3_"Sirayanian, Mr. Orsen"_"male"_22_0_0_"2669"_7.2292
+"62"_1_1_"Icard, Miss. Amelie"_"female"_38_0_0_"113572"_80
+"63"_0_1_"Harris, Mr. Henry Birkhardt"_"male"_45_1_0_"36973"_83.475
+"64"_0_3_"Skoog, Master. Harald"_"male"_4_3_2_"347088"_27.9
+"65"_0_1_"Stewart, Mr. Albert A"_"male"_NA_0_0_"PC 17605"_27.7208
+"66"_1_3_"Moubarek, Master. Gerios"_"male"_NA_1_1_"2661"_15.2458
+"67"_1_2_"Nye, Mrs. (Elizabeth Ramell)"_"female"_29_0_0_"C.A. 29395"_10.5
+"68"_0_3_"Crease, Mr. Ernest James"_"male"_19_0_0_"S.P. 3464"_8.1583
+"69"_1_3_"Andersson, Miss. Erna Alexandra"_"female"_17_4_2_"3101281"_7.925
+"70"_0_3_"Kink, Mr. Vincenz"_"male"_26_2_0_"315151"_8.6625
+"71"_0_2_"Jenkin, Mr. Stephen Curnow"_"male"_32_0_0_"C.A. 33111"_10.5
+"72"_0_3_"Goodwin, Miss. Lillian Amy"_"female"_16_5_2_"CA 2144"_46.9
+"73"_0_2_"Hood, Mr. Ambrose Jr"_"male"_21_0_0_"S.O.C. 14879"_73.5
+"74"_0_3_"Chronopoulos, Mr. Apostolos"_"male"_26_1_0_"2680"_14.4542
+"75"_1_3_"Bing, Mr. Lee"_"male"_32_0_0_"1601"_56.4958
+"76"_0_3_"Moen, Mr. Sigurd Hansen"_"male"_25_0_0_"348123"_7.65
+"77"_0_3_"Staneff, Mr. Ivan"_"male"_NA_0_0_"349208"_7.8958
+"78"_0_3_"Moutal, Mr. Rahamin Haim"_"male"_NA_0_0_"374746"_8.05
+"79"_1_2_"Caldwell, Master. Alden Gates"_"male"_0.83_0_2_"248738"_29
+"80"_1_3_"Dowdell, Miss. Elizabeth"_"female"_30_0_0_"364516"_12.475
+"81"_0_3_"Waelens, Mr. Achille"_"male"_22_0_0_"345767"_9
+"82"_1_3_"Sheerlinck, Mr. Jan Baptist"_"male"_29_0_0_"345779"_9.5
+"83"_1_3_"McDermott, Miss. Brigdet Delia"_"female"_NA_0_0_"330932"_7.7875
+"84"_0_1_"Carrau, Mr. Francisco M"_"male"_28_0_0_"113059"_47.1
+"85"_1_2_"Ilett, Miss. Bertha"_"female"_17_0_0_"SO/C 14885"_10.5
+"86"_1_3_"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)"_"female"_33_3_0_"3101278"_15.85
+"87"_0_3_"Ford, Mr. William Neal"_"male"_16_1_3_"W./C. 6608"_34.375
+"88"_0_3_"Slocovski, Mr. Selman Francis"_"male"_NA_0_0_"SOTON/OQ 392086"_8.05
+"89"_1_1_"Fortune, Miss. Mabel Helen"_"female"_23_3_2_"19950"_263
+"90"_0_3_"Celotti, Mr. Francesco"_"male"_24_0_0_"343275"_8.05
+"91"_0_3_"Christmann, Mr. Emil"_"male"_29_0_0_"343276"_8.05
+"92"_0_3_"Andreasson, Mr. Paul Edvin"_"male"_20_0_0_"347466"_7.8542
+"93"_0_1_"Chaffee, Mr. Herbert Fuller"_"male"_46_1_0_"W.E.P. 5734"_61.175
+"94"_0_3_"Dean, Mr. Bertram Frank"_"male"_26_1_2_"C.A. 2315"_20.575
+"95"_0_3_"Coxon, Mr. Daniel"_"male"_59_0_0_"364500"_7.25
+"96"_0_3_"Shorney, Mr. Charles Joseph"_"male"_NA_0_0_"374910"_8.05
+"97"_0_1_"Goldschmidt, Mr. George B"_"male"_71_0_0_"PC 17754"_34.6542
+"98"_1_1_"Greenfield, Mr. William Bertram"_"male"_23_0_1_"PC 17759"_63.3583
+"99"_1_2_"Doling, Mrs. John T (Ada Julia Bone)"_"female"_34_0_1_"231919"_23
+"100"_0_2_"Kantor, Mr. Sinai"_"male"_34_1_0_"244367"_26
+"101"_0_3_"Petranec, Miss. Matilda"_"female"_28_0_0_"349245"_7.8958
+"102"_0_3_"Petroff, Mr. Pastcho (\"Pentcho\")"_"male"_NA_0_0_"349215"_7.8958
+"103"_0_1_"White, Mr. Richard Frasar"_"male"_21_0_1_"35281"_77.2875
+"104"_0_3_"Johansson, Mr. Gustaf Joel"_"male"_33_0_0_"7540"_8.6542
+"105"_0_3_"Gustafsson, Mr. Anders Vilhelm"_"male"_37_2_0_"3101276"_7.925
+"106"_0_3_"Mionoff, Mr. Stoytcho"_"male"_28_0_0_"349207"_7.8958
+"107"_1_3_"Salkjelsvik, Miss. Anna Kristine"_"female"_21_0_0_"343120"_7.65
+"108"_1_3_"Moss, Mr. Albert Johan"_"male"_NA_0_0_"312991"_7.775
+"109"_0_3_"Rekic, Mr. Tido"_"male"_38_0_0_"349249"_7.8958
+"110"_1_3_"Moran, Miss. Bertha"_"female"_NA_1_0_"371110"_24.15
+"111"_0_1_"Porter, Mr. Walter Chamberlain"_"male"_47_0_0_"110465"_52
+"112"_0_3_"Zabour, Miss. Hileni"_"female"_14.5_1_0_"2665"_14.4542
+"113"_0_3_"Barton, Mr. David John"_"male"_22_0_0_"324669"_8.05
+"114"_0_3_"Jussila, Miss. Katriina"_"female"_20_1_0_"4136"_9.825
+"115"_0_3_"Attalah, Miss. Malake"_"female"_17_0_0_"2627"_14.4583
+"116"_0_3_"Pekoniemi, Mr. Edvard"_"male"_21_0_0_"STON/O 2. 3101294"_7.925
+"117"_0_3_"Connors, Mr. Patrick"_"male"_70.5_0_0_"370369"_7.75
+"118"_0_2_"Turpin, Mr. William John Robert"_"male"_29_1_0_"11668"_21
+"119"_0_1_"Baxter, Mr. Quigg Edmond"_"male"_24_0_1_"PC 17558"_247.5208
+"120"_0_3_"Andersson, Miss. Ellis Anna Maria"_"female"_2_4_2_"347082"_31.275
+"121"_0_2_"Hickman, Mr. Stanley George"_"male"_21_2_0_"S.O.C. 14879"_73.5
+"122"_0_3_"Moore, Mr. Leonard Charles"_"male"_NA_0_0_"A4. 54510"_8.05
+"123"_0_2_"Nasser, Mr. Nicholas"_"male"_32.5_1_0_"237736"_30.0708
+"124"_1_2_"Webber, Miss. Susan"_"female"_32.5_0_0_"27267"_13
+"125"_0_1_"White, Mr. Percival Wayland"_"male"_54_0_1_"35281"_77.2875
+"126"_1_3_"Nicola-Yarred, Master. Elias"_"male"_12_1_0_"2651"_11.2417
+"127"_0_3_"McMahon, Mr. Martin"_"male"_NA_0_0_"370372"_7.75
+"128"_1_3_"Madsen, Mr. Fridtjof Arne"_"male"_24_0_0_"C 17369"_7.1417
+"129"_1_3_"Peter, Miss. Anna"_"female"_NA_1_1_"2668"_22.3583
+"130"_0_3_"Ekstrom, Mr. Johan"_"male"_45_0_0_"347061"_6.975
+"131"_0_3_"Drazenoic, Mr. Jozef"_"male"_33_0_0_"349241"_7.8958
+"132"_0_3_"Coelho, Mr. Domingos Fernandeo"_"male"_20_0_0_"SOTON/O.Q. 3101307"_7.05
+"133"_0_3_"Robins, Mrs. Alexander A (Grace Charity Laury)"_"female"_47_1_0_"A/5. 3337"_14.5
+"134"_1_2_"Weisz, Mrs. Leopold (Mathilde Francoise Pede)"_"female"_29_1_0_"228414"_26
+"135"_0_2_"Sobey, Mr. Samuel James Hayden"_"male"_25_0_0_"C.A. 29178"_13
+"136"_0_2_"Richard, Mr. Emile"_"male"_23_0_0_"SC/PARIS 2133"_15.0458
+"137"_1_1_"Newsom, Miss. Helen Monypeny"_"female"_19_0_2_"11752"_26.2833
+"138"_0_1_"Futrelle, Mr. Jacques Heath"_"male"_37_1_0_"113803"_53.1
+"139"_0_3_"Osen, Mr. Olaf Elon"_"male"_16_0_0_"7534"_9.2167
+"140"_0_1_"Giglio, Mr. Victor"_"male"_24_0_0_"PC 17593"_79.2
+"141"_0_3_"Boulos, Mrs. Joseph (Sultana)"_"female"_NA_0_2_"2678"_15.2458
+"142"_1_3_"Nysten, Miss. Anna Sofia"_"female"_22_0_0_"347081"_7.75
+"143"_1_3_"Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)"_"female"_24_1_0_"STON/O2. 3101279"_15.85
+"144"_0_3_"Burke, Mr. Jeremiah"_"male"_19_0_0_"365222"_6.75
+"145"_0_2_"Andrew, Mr. Edgardo Samuel"_"male"_18_0_0_"231945"_11.5
+"146"_0_2_"Nicholls, Mr. Joseph Charles"_"male"_19_1_1_"C.A. 33112"_36.75
+"147"_1_3_"Andersson, Mr. August Edvard (\"Wennerstrom\")"_"male"_27_0_0_"350043"_7.7958
+"148"_0_3_"Ford, Miss. Robina Maggie \"Ruby\""_"female"_9_2_2_"W./C. 6608"_34.375
+"149"_0_2_"Navratil, Mr. Michel (\"Louis M Hoffman\")"_"male"_36.5_0_2_"230080"_26
+"150"_0_2_"Byles, Rev. Thomas Roussel Davids"_"male"_42_0_0_"244310"_13
+"151"_0_2_"Bateman, Rev. Robert James"_"male"_51_0_0_"S.O.P. 1166"_12.525
+"152"_1_1_"Pears, Mrs. Thomas (Edith Wearne)"_"female"_22_1_0_"113776"_66.6
+"153"_0_3_"Meo, Mr. Alfonzo"_"male"_55.5_0_0_"A.5. 11206"_8.05
+"154"_0_3_"van Billiard, Mr. Austin Blyler"_"male"_40.5_0_2_"A/5. 851"_14.5
+"155"_0_3_"Olsen, Mr. Ole Martin"_"male"_NA_0_0_"Fa 265302"_7.3125
+"156"_0_1_"Williams, Mr. Charles Duane"_"male"_51_0_1_"PC 17597"_61.3792
+"157"_1_3_"Gilnagh, Miss. Katherine \"Katie\""_"female"_16_0_0_"35851"_7.7333
+"158"_0_3_"Corn, Mr. Harry"_"male"_30_0_0_"SOTON/OQ 392090"_8.05
+"159"_0_3_"Smiljanic, Mr. Mile"_"male"_NA_0_0_"315037"_8.6625
+"160"_0_3_"Sage, Master. Thomas Henry"_"male"_NA_8_2_"CA. 2343"_69.55
+"161"_0_3_"Cribb, Mr. John Hatfield"_"male"_44_0_1_"371362"_16.1
+"162"_1_2_"Watt, Mrs. James (Elizabeth \"Bessie\" Inglis Milne)"_"female"_40_0_0_"C.A. 33595"_15.75
+"163"_0_3_"Bengtsson, Mr. John Viktor"_"male"_26_0_0_"347068"_7.775
+"164"_0_3_"Calic, Mr. Jovo"_"male"_17_0_0_"315093"_8.6625
+"165"_0_3_"Panula, Master. Eino Viljami"_"male"_1_4_1_"3101295"_39.6875
+"166"_1_3_"Goldsmith, Master. Frank John William \"Frankie\""_"male"_9_0_2_"363291"_20.525
+"167"_1_1_"Chibnall, Mrs. (Edith Martha Bowerman)"_"female"_NA_0_1_"113505"_55
+"168"_0_3_"Skoog, Mrs. William (Anna Bernhardina Karlsson)"_"female"_45_1_4_"347088"_27.9
+"169"_0_1_"Baumann, Mr. John D"_"male"_NA_0_0_"PC 17318"_25.925
+"170"_0_3_"Ling, Mr. Lee"_"male"_28_0_0_"1601"_56.4958
+"171"_0_1_"Van der hoef, Mr. Wyckoff"_"male"_61_0_0_"111240"_33.5
+"172"_0_3_"Rice, Master. Arthur"_"male"_4_4_1_"382652"_29.125
+"173"_1_3_"Johnson, Miss. Eleanor Ileen"_"female"_1_1_1_"347742"_11.1333
+"174"_0_3_"Sivola, Mr. Antti Wilhelm"_"male"_21_0_0_"STON/O 2. 3101280"_7.925
+"175"_0_1_"Smith, Mr. James Clinch"_"male"_56_0_0_"17764"_30.6958
+"176"_0_3_"Klasen, Mr. Klas Albin"_"male"_18_1_1_"350404"_7.8542
+"177"_0_3_"Lefebre, Master. Henry Forbes"_"male"_NA_3_1_"4133"_25.4667
+"178"_0_1_"Isham, Miss. Ann Elizabeth"_"female"_50_0_0_"PC 17595"_28.7125
+"179"_0_2_"Hale, Mr. Reginald"_"male"_30_0_0_"250653"_13
+"180"_0_3_"Leonard, Mr. Lionel"_"male"_36_0_0_"LINE"_0
+"181"_0_3_"Sage, Miss. Constance Gladys"_"female"_NA_8_2_"CA. 2343"_69.55
+"182"_0_2_"Pernot, Mr. Rene"_"male"_NA_0_0_"SC/PARIS 2131"_15.05
+"183"_0_3_"Asplund, Master. Clarence Gustaf Hugo"_"male"_9_4_2_"347077"_31.3875
+"184"_1_2_"Becker, Master. Richard F"_"male"_1_2_1_"230136"_39
+"185"_1_3_"Kink-Heilmann, Miss. Luise Gretchen"_"female"_4_0_2_"315153"_22.025
+"186"_0_1_"Rood, Mr. Hugh Roscoe"_"male"_NA_0_0_"113767"_50
+"187"_1_3_"O'Brien, Mrs. Thomas (Johanna \"Hannah\" Godfrey)"_"female"_NA_1_0_"370365"_15.5
+"188"_1_1_"Romaine, Mr. Charles Hallace (\"Mr C Rolmane\")"_"male"_45_0_0_"111428"_26.55
+"189"_0_3_"Bourke, Mr. John"_"male"_40_1_1_"364849"_15.5
+"190"_0_3_"Turcin, Mr. Stjepan"_"male"_36_0_0_"349247"_7.8958
+"191"_1_2_"Pinsky, Mrs. (Rosa)"_"female"_32_0_0_"234604"_13
+"192"_0_2_"Carbines, Mr. William"_"male"_19_0_0_"28424"_13
+"193"_1_3_"Andersen-Jensen, Miss. Carla Christine Nielsine"_"female"_19_1_0_"350046"_7.8542
+"194"_1_2_"Navratil, Master. Michel M"_"male"_3_1_1_"230080"_26
+"195"_1_1_"Brown, Mrs. James Joseph (Margaret Tobin)"_"female"_44_0_0_"PC 17610"_27.7208
+"196"_1_1_"Lurette, Miss. Elise"_"female"_58_0_0_"PC 17569"_146.5208
+"197"_0_3_"Mernagh, Mr. Robert"_"male"_NA_0_0_"368703"_7.75
+"198"_0_3_"Olsen, Mr. Karl Siegwart Andreas"_"male"_42_0_1_"4579"_8.4042
+"199"_1_3_"Madigan, Miss. Margaret \"Maggie\""_"female"_NA_0_0_"370370"_7.75
+"200"_0_2_"Yrois, Miss. Henriette (\"Mrs Harbeck\")"_"female"_24_0_0_"248747"_13
+"201"_0_3_"Vande Walle, Mr. Nestor Cyriel"_"male"_28_0_0_"345770"_9.5
+"202"_0_3_"Sage, Mr. Frederick"_"male"_NA_8_2_"CA. 2343"_69.55
+"203"_0_3_"Johanson, Mr. Jakob Alfred"_"male"_34_0_0_"3101264"_6.4958
+"204"_0_3_"Youseff, Mr. Gerious"_"male"_45.5_0_0_"2628"_7.225
+"205"_1_3_"Cohen, Mr. Gurshon \"Gus\""_"male"_18_0_0_"A/5 3540"_8.05
+"206"_0_3_"Strom, Miss. Telma Matilda"_"female"_2_0_1_"347054"_10.4625
+"207"_0_3_"Backstrom, Mr. Karl Alfred"_"male"_32_1_0_"3101278"_15.85
+"208"_1_3_"Albimona, Mr. Nassef Cassem"_"male"_26_0_0_"2699"_18.7875
+"209"_1_3_"Carr, Miss. Helen \"Ellen\""_"female"_16_0_0_"367231"_7.75
+"210"_1_1_"Blank, Mr. Henry"_"male"_40_0_0_"112277"_31
+"211"_0_3_"Ali, Mr. Ahmed"_"male"_24_0_0_"SOTON/O.Q. 3101311"_7.05
+"212"_1_2_"Cameron, Miss. Clear Annie"_"female"_35_0_0_"F.C.C. 13528"_21
+"213"_0_3_"Perkin, Mr. John Henry"_"male"_22_0_0_"A/5 21174"_7.25
+"214"_0_2_"Givard, Mr. Hans Kristensen"_"male"_30_0_0_"250646"_13
+"215"_0_3_"Kiernan, Mr. Philip"_"male"_NA_1_0_"367229"_7.75
+"216"_1_1_"Newell, Miss. Madeleine"_"female"_31_1_0_"35273"_113.275
+"217"_1_3_"Honkanen, Miss. Eliina"_"female"_27_0_0_"STON/O2. 3101283"_7.925
+"218"_0_2_"Jacobsohn, Mr. Sidney Samuel"_"male"_42_1_0_"243847"_27
+"219"_1_1_"Bazzani, Miss. Albina"_"female"_32_0_0_"11813"_76.2917
+"220"_0_2_"Harris, Mr. Walter"_"male"_30_0_0_"W/C 14208"_10.5
+"221"_1_3_"Sunderland, Mr. Victor Francis"_"male"_16_0_0_"SOTON/OQ 392089"_8.05
+"222"_0_2_"Bracken, Mr. James H"_"male"_27_0_0_"220367"_13
+"223"_0_3_"Green, Mr. George Henry"_"male"_51_0_0_"21440"_8.05
+"224"_0_3_"Nenkoff, Mr. Christo"_"male"_NA_0_0_"349234"_7.8958
+"225"_1_1_"Hoyt, Mr. Frederick Maxfield"_"male"_38_1_0_"19943"_90
+"226"_0_3_"Berglund, Mr. Karl Ivar Sven"_"male"_22_0_0_"PP 4348"_9.35
+"227"_1_2_"Mellors, Mr. William John"_"male"_19_0_0_"SW/PP 751"_10.5
+"228"_0_3_"Lovell, Mr. John Hall (\"Henry\")"_"male"_20.5_0_0_"A/5 21173"_7.25
+"229"_0_2_"Fahlstrom, Mr. Arne Jonas"_"male"_18_0_0_"236171"_13
+"230"_0_3_"Lefebre, Miss. Mathilde"_"female"_NA_3_1_"4133"_25.4667
+"231"_1_1_"Harris, Mrs. Henry Birkhardt (Irene Wallach)"_"female"_35_1_0_"36973"_83.475
+"232"_0_3_"Larsson, Mr. Bengt Edvin"_"male"_29_0_0_"347067"_7.775
+"233"_0_2_"Sjostedt, Mr. Ernst Adolf"_"male"_59_0_0_"237442"_13.5
+"234"_1_3_"Asplund, Miss. Lillian Gertrud"_"female"_5_4_2_"347077"_31.3875
+"235"_0_2_"Leyson, Mr. Robert William Norman"_"male"_24_0_0_"C.A. 29566"_10.5
+"236"_0_3_"Harknett, Miss. Alice Phoebe"_"female"_NA_0_0_"W./C. 6609"_7.55
+"237"_0_2_"Hold, Mr. Stephen"_"male"_44_1_0_"26707"_26
+"238"_1_2_"Collyer, Miss. Marjorie \"Lottie\""_"female"_8_0_2_"C.A. 31921"_26.25
+"239"_0_2_"Pengelly, Mr. Frederick William"_"male"_19_0_0_"28665"_10.5
+"240"_0_2_"Hunt, Mr. George Henry"_"male"_33_0_0_"SCO/W 1585"_12.275
+"241"_0_3_"Zabour, Miss. Thamine"_"female"_NA_1_0_"2665"_14.4542
+"242"_1_3_"Murphy, Miss. Katherine \"Kate\""_"female"_NA_1_0_"367230"_15.5
+"243"_0_2_"Coleridge, Mr. Reginald Charles"_"male"_29_0_0_"W./C. 14263"_10.5
+"244"_0_3_"Maenpaa, Mr. Matti Alexanteri"_"male"_22_0_0_"STON/O 2. 3101275"_7.125
+"245"_0_3_"Attalah, Mr. Sleiman"_"male"_30_0_0_"2694"_7.225
+"246"_0_1_"Minahan, Dr. William Edward"_"male"_44_2_0_"19928"_90
+"247"_0_3_"Lindahl, Miss. Agda Thorilda Viktoria"_"female"_25_0_0_"347071"_7.775
+"248"_1_2_"Hamalainen, Mrs. William (Anna)"_"female"_24_0_2_"250649"_14.5
+"249"_1_1_"Beckwith, Mr. Richard Leonard"_"male"_37_1_1_"11751"_52.5542
+"250"_0_2_"Carter, Rev. Ernest Courtenay"_"male"_54_1_0_"244252"_26
+"251"_0_3_"Reed, Mr. James George"_"male"_NA_0_0_"362316"_7.25
+"252"_0_3_"Strom, Mrs. Wilhelm (Elna Matilda Persson)"_"female"_29_1_1_"347054"_10.4625
+"253"_0_1_"Stead, Mr. William Thomas"_"male"_62_0_0_"113514"_26.55
+"254"_0_3_"Lobb, Mr. William Arthur"_"male"_30_1_0_"A/5. 3336"_16.1
+"255"_0_3_"Rosblom, Mrs. Viktor (Helena Wilhelmina)"_"female"_41_0_2_"370129"_20.2125
+"256"_1_3_"Touma, Mrs. Darwis (Hanne Youssef Razi)"_"female"_29_0_2_"2650"_15.2458
+"257"_1_1_"Thorne, Mrs. Gertrude Maybelle"_"female"_NA_0_0_"PC 17585"_79.2
+"258"_1_1_"Cherry, Miss. Gladys"_"female"_30_0_0_"110152"_86.5
+"259"_1_1_"Ward, Miss. Anna"_"female"_35_0_0_"PC 17755"_512.3292
+"260"_1_2_"Parrish, Mrs. (Lutie Davis)"_"female"_50_0_1_"230433"_26
+"261"_0_3_"Smith, Mr. Thomas"_"male"_NA_0_0_"384461"_7.75
+"262"_1_3_"Asplund, Master. Edvin Rojj Felix"_"male"_3_4_2_"347077"_31.3875
+"263"_0_1_"Taussig, Mr. Emil"_"male"_52_1_1_"110413"_79.65
+"264"_0_1_"Harrison, Mr. William"_"male"_40_0_0_"112059"_0
+"265"_0_3_"Henry, Miss. Delia"_"female"_NA_0_0_"382649"_7.75
+"266"_0_2_"Reeves, Mr. David"_"male"_36_0_0_"C.A. 17248"_10.5
+"267"_0_3_"Panula, Mr. Ernesti Arvid"_"male"_16_4_1_"3101295"_39.6875
+"268"_1_3_"Persson, Mr. Ernst Ulrik"_"male"_25_1_0_"347083"_7.775
+"269"_1_1_"Graham, Mrs. William Thompson (Edith Junkins)"_"female"_58_0_1_"PC 17582"_153.4625
+"270"_1_1_"Bissette, Miss. Amelia"_"female"_35_0_0_"PC 17760"_135.6333
+"271"_0_1_"Cairns, Mr. Alexander"_"male"_NA_0_0_"113798"_31
+"272"_1_3_"Tornquist, Mr. William Henry"_"male"_25_0_0_"LINE"_0
+"273"_1_2_"Mellinger, Mrs. (Elizabeth Anne Maidment)"_"female"_41_0_1_"250644"_19.5
+"274"_0_1_"Natsch, Mr. Charles H"_"male"_37_0_1_"PC 17596"_29.7
+"275"_1_3_"Healy, Miss. Hanora \"Nora\""_"female"_NA_0_0_"370375"_7.75
+"276"_1_1_"Andrews, Miss. Kornelia Theodosia"_"female"_63_1_0_"13502"_77.9583
+"277"_0_3_"Lindblom, Miss. Augusta Charlotta"_"female"_45_0_0_"347073"_7.75
+"278"_0_2_"Parkes, Mr. Francis \"Frank\""_"male"_NA_0_0_"239853"_0
+"279"_0_3_"Rice, Master. Eric"_"male"_7_4_1_"382652"_29.125
+"280"_1_3_"Abbott, Mrs. Stanton (Rosa Hunt)"_"female"_35_1_1_"C.A. 2673"_20.25
+"281"_0_3_"Duane, Mr. Frank"_"male"_65_0_0_"336439"_7.75
+"282"_0_3_"Olsson, Mr. Nils Johan Goransson"_"male"_28_0_0_"347464"_7.8542
+"283"_0_3_"de Pelsmaeker, Mr. Alfons"_"male"_16_0_0_"345778"_9.5
+"284"_1_3_"Dorking, Mr. Edward Arthur"_"male"_19_0_0_"A/5. 10482"_8.05
+"285"_0_1_"Smith, Mr. Richard William"_"male"_NA_0_0_"113056"_26
+"286"_0_3_"Stankovic, Mr. Ivan"_"male"_33_0_0_"349239"_8.6625
+"287"_1_3_"de Mulder, Mr. Theodore"_"male"_30_0_0_"345774"_9.5
+"288"_0_3_"Naidenoff, Mr. Penko"_"male"_22_0_0_"349206"_7.8958
+"289"_1_2_"Hosono, Mr. Masabumi"_"male"_42_0_0_"237798"_13
+"290"_1_3_"Connolly, Miss. Kate"_"female"_22_0_0_"370373"_7.75
+"291"_1_1_"Barber, Miss. Ellen \"Nellie\""_"female"_26_0_0_"19877"_78.85
+"292"_1_1_"Bishop, Mrs. Dickinson H (Helen Walton)"_"female"_19_1_0_"11967"_91.0792
+"293"_0_2_"Levy, Mr. Rene Jacques"_"male"_36_0_0_"SC/Paris 2163"_12.875
+"294"_0_3_"Haas, Miss. Aloisia"_"female"_24_0_0_"349236"_8.85
+"295"_0_3_"Mineff, Mr. Ivan"_"male"_24_0_0_"349233"_7.8958
+"296"_0_1_"Lewy, Mr. Ervin G"_"male"_NA_0_0_"PC 17612"_27.7208
+"297"_0_3_"Hanna, Mr. Mansour"_"male"_23.5_0_0_"2693"_7.2292
+"298"_0_1_"Allison, Miss. Helen Loraine"_"female"_2_1_2_"113781"_151.55
+"299"_1_1_"Saalfeld, Mr. Adolphe"_"male"_NA_0_0_"19988"_30.5
+"300"_1_1_"Baxter, Mrs. James (Helene DeLaudeniere Chaput)"_"female"_50_0_1_"PC 17558"_247.5208
+"301"_1_3_"Kelly, Miss. Anna Katherine \"Annie Kate\""_"female"_NA_0_0_"9234"_7.75
+"302"_1_3_"McCoy, Mr. Bernard"_"male"_NA_2_0_"367226"_23.25
+"303"_0_3_"Johnson, Mr. William Cahoone Jr"_"male"_19_0_0_"LINE"_0
+"304"_1_2_"Keane, Miss. Nora A"_"female"_NA_0_0_"226593"_12.35
+"305"_0_3_"Williams, Mr. Howard Hugh \"Harry\""_"male"_NA_0_0_"A/5 2466"_8.05
+"306"_1_1_"Allison, Master. Hudson Trevor"_"male"_0.92_1_2_"113781"_151.55
+"307"_1_1_"Fleming, Miss. Margaret"_"female"_NA_0_0_"17421"_110.8833
+"308"_1_1_"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)"_"female"_17_1_0_"PC 17758"_108.9
+"309"_0_2_"Abelson, Mr. Samuel"_"male"_30_1_0_"P/PP 3381"_24
+"310"_1_1_"Francatelli, Miss. Laura Mabel"_"female"_30_0_0_"PC 17485"_56.9292
+"311"_1_1_"Hays, Miss. Margaret Bechstein"_"female"_24_0_0_"11767"_83.1583
+"312"_1_1_"Ryerson, Miss. Emily Borie"_"female"_18_2_2_"PC 17608"_262.375
+"313"_0_2_"Lahtinen, Mrs. William (Anna Sylfven)"_"female"_26_1_1_"250651"_26
+"314"_0_3_"Hendekovic, Mr. Ignjac"_"male"_28_0_0_"349243"_7.8958
+"315"_0_2_"Hart, Mr. Benjamin"_"male"_43_1_1_"F.C.C. 13529"_26.25
+"316"_1_3_"Nilsson, Miss. Helmina Josefina"_"female"_26_0_0_"347470"_7.8542
+"317"_1_2_"Kantor, Mrs. Sinai (Miriam Sternin)"_"female"_24_1_0_"244367"_26
+"318"_0_2_"Moraweck, Dr. Ernest"_"male"_54_0_0_"29011"_14
+"319"_1_1_"Wick, Miss. Mary Natalie"_"female"_31_0_2_"36928"_164.8667
+"320"_1_1_"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)"_"female"_40_1_1_"16966"_134.5
+"321"_0_3_"Dennis, Mr. Samuel"_"male"_22_0_0_"A/5 21172"_7.25
+"322"_0_3_"Danoff, Mr. Yoto"_"male"_27_0_0_"349219"_7.8958
+"323"_1_2_"Slayter, Miss. Hilda Mary"_"female"_30_0_0_"234818"_12.35
+"324"_1_2_"Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)"_"female"_22_1_1_"248738"_29
+"325"_0_3_"Sage, Mr. George John Jr"_"male"_NA_8_2_"CA. 2343"_69.55
+"326"_1_1_"Young, Miss. Marie Grice"_"female"_36_0_0_"PC 17760"_135.6333
+"327"_0_3_"Nysveen, Mr. Johan Hansen"_"male"_61_0_0_"345364"_6.2375
+"328"_1_2_"Ball, Mrs. (Ada E Hall)"_"female"_36_0_0_"28551"_13
+"329"_1_3_"Goldsmith, Mrs. Frank John (Emily Alice Brown)"_"female"_31_1_1_"363291"_20.525
+"330"_1_1_"Hippach, Miss. Jean Gertrude"_"female"_16_0_1_"111361"_57.9792
+"331"_1_3_"McCoy, Miss. Agnes"_"female"_NA_2_0_"367226"_23.25
+"332"_0_1_"Partner, Mr. Austen"_"male"_45.5_0_0_"113043"_28.5
+"333"_0_1_"Graham, Mr. George Edward"_"male"_38_0_1_"PC 17582"_153.4625
+"334"_0_3_"Vander Planke, Mr. Leo Edmondus"_"male"_16_2_0_"345764"_18
+"335"_1_1_"Frauenthal, Mrs. Henry William (Clara Heinsheimer)"_"female"_NA_1_0_"PC 17611"_133.65
+"336"_0_3_"Denkoff, Mr. Mitto"_"male"_NA_0_0_"349225"_7.8958
+"337"_0_1_"Pears, Mr. Thomas Clinton"_"male"_29_1_0_"113776"_66.6
+"338"_1_1_"Burns, Miss. Elizabeth Margaret"_"female"_41_0_0_"16966"_134.5
+"339"_1_3_"Dahl, Mr. Karl Edwart"_"male"_45_0_0_"7598"_8.05
+"340"_0_1_"Blackwell, Mr. Stephen Weart"_"male"_45_0_0_"113784"_35.5
+"341"_1_2_"Navratil, Master. Edmond Roger"_"male"_2_1_1_"230080"_26
+"342"_1_1_"Fortune, Miss. Alice Elizabeth"_"female"_24_3_2_"19950"_263
+"343"_0_2_"Collander, Mr. Erik Gustaf"_"male"_28_0_0_"248740"_13
+"344"_0_2_"Sedgwick, Mr. Charles Frederick Waddington"_"male"_25_0_0_"244361"_13
+"345"_0_2_"Fox, Mr. Stanley Hubert"_"male"_36_0_0_"229236"_13
+"346"_1_2_"Brown, Miss. Amelia \"Mildred\""_"female"_24_0_0_"248733"_13
+"347"_1_2_"Smith, Miss. Marion Elsie"_"female"_40_0_0_"31418"_13
+"348"_1_3_"Davison, Mrs. Thomas Henry (Mary E Finck)"_"female"_NA_1_0_"386525"_16.1
+"349"_1_3_"Coutts, Master. William Loch \"William\""_"male"_3_1_1_"C.A. 37671"_15.9
+"350"_0_3_"Dimic, Mr. Jovan"_"male"_42_0_0_"315088"_8.6625
+"351"_0_3_"Odahl, Mr. Nils Martin"_"male"_23_0_0_"7267"_9.225
+"352"_0_1_"Williams-Lambert, Mr. Fletcher Fellows"_"male"_NA_0_0_"113510"_35
+"353"_0_3_"Elias, Mr. Tannous"_"male"_15_1_1_"2695"_7.2292
+"354"_0_3_"Arnold-Franchi, Mr. Josef"_"male"_25_1_0_"349237"_17.8
+"355"_0_3_"Yousif, Mr. Wazli"_"male"_NA_0_0_"2647"_7.225
+"356"_0_3_"Vanden Steen, Mr. Leo Peter"_"male"_28_0_0_"345783"_9.5
+"357"_1_1_"Bowerman, Miss. Elsie Edith"_"female"_22_0_1_"113505"_55
+"358"_0_2_"Funk, Miss. Annie Clemmer"_"female"_38_0_0_"237671"_13
+"359"_1_3_"McGovern, Miss. Mary"_"female"_NA_0_0_"330931"_7.8792
+"360"_1_3_"Mockler, Miss. Helen Mary \"Ellie\""_"female"_NA_0_0_"330980"_7.8792
+"361"_0_3_"Skoog, Mr. Wilhelm"_"male"_40_1_4_"347088"_27.9
+"362"_0_2_"del Carlo, Mr. Sebastiano"_"male"_29_1_0_"SC/PARIS 2167"_27.7208
+"363"_0_3_"Barbara, Mrs. (Catherine David)"_"female"_45_0_1_"2691"_14.4542
+"364"_0_3_"Asim, Mr. Adola"_"male"_35_0_0_"SOTON/O.Q. 3101310"_7.05
+"365"_0_3_"O'Brien, Mr. Thomas"_"male"_NA_1_0_"370365"_15.5
+"366"_0_3_"Adahl, Mr. Mauritz Nils Martin"_"male"_30_0_0_"C 7076"_7.25
+"367"_1_1_"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)"_"female"_60_1_0_"110813"_75.25
+"368"_1_3_"Moussa, Mrs. (Mantoura Boulos)"_"female"_NA_0_0_"2626"_7.2292
+"369"_1_3_"Jermyn, Miss. Annie"_"female"_NA_0_0_"14313"_7.75
+"370"_1_1_"Aubart, Mme. Leontine Pauline"_"female"_24_0_0_"PC 17477"_69.3
+"371"_1_1_"Harder, Mr. George Achilles"_"male"_25_1_0_"11765"_55.4417
+"372"_0_3_"Wiklund, Mr. Jakob Alfred"_"male"_18_1_0_"3101267"_6.4958
+"373"_0_3_"Beavan, Mr. William Thomas"_"male"_19_0_0_"323951"_8.05
+"374"_0_1_"Ringhini, Mr. Sante"_"male"_22_0_0_"PC 17760"_135.6333
+"375"_0_3_"Palsson, Miss. Stina Viola"_"female"_3_3_1_"349909"_21.075
+"376"_1_1_"Meyer, Mrs. Edgar Joseph (Leila Saks)"_"female"_NA_1_0_"PC 17604"_82.1708
+"377"_1_3_"Landergren, Miss. Aurora Adelia"_"female"_22_0_0_"C 7077"_7.25
+"378"_0_1_"Widener, Mr. Harry Elkins"_"male"_27_0_2_"113503"_211.5
+"379"_0_3_"Betros, Mr. Tannous"_"male"_20_0_0_"2648"_4.0125
+"380"_0_3_"Gustafsson, Mr. Karl Gideon"_"male"_19_0_0_"347069"_7.775
+"381"_1_1_"Bidois, Miss. Rosalie"_"female"_42_0_0_"PC 17757"_227.525
+"382"_1_3_"Nakid, Miss. Maria (\"Mary\")"_"female"_1_0_2_"2653"_15.7417
+"383"_0_3_"Tikkanen, Mr. Juho"_"male"_32_0_0_"STON/O 2. 3101293"_7.925
+"384"_1_1_"Holverson, Mrs. Alexander Oskar (Mary Aline Towner)"_"female"_35_1_0_"113789"_52
+"385"_0_3_"Plotcharsky, Mr. Vasil"_"male"_NA_0_0_"349227"_7.8958
+"386"_0_2_"Davies, Mr. Charles Henry"_"male"_18_0_0_"S.O.C. 14879"_73.5
+"387"_0_3_"Goodwin, Master. Sidney Leonard"_"male"_1_5_2_"CA 2144"_46.9
+"388"_1_2_"Buss, Miss. Kate"_"female"_36_0_0_"27849"_13
+"389"_0_3_"Sadlier, Mr. Matthew"_"male"_NA_0_0_"367655"_7.7292
+"390"_1_2_"Lehmann, Miss. Bertha"_"female"_17_0_0_"SC 1748"_12
+"391"_1_1_"Carter, Mr. William Ernest"_"male"_36_1_2_"113760"_120
+"392"_1_3_"Jansson, Mr. Carl Olof"_"male"_21_0_0_"350034"_7.7958
+"393"_0_3_"Gustafsson, Mr. Johan Birger"_"male"_28_2_0_"3101277"_7.925
+"394"_1_1_"Newell, Miss. Marjorie"_"female"_23_1_0_"35273"_113.275
+"395"_1_3_"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)"_"female"_24_0_2_"PP 9549"_16.7
+"396"_0_3_"Johansson, Mr. Erik"_"male"_22_0_0_"350052"_7.7958
+"397"_0_3_"Olsson, Miss. Elina"_"female"_31_0_0_"350407"_7.8542
+"398"_0_2_"McKane, Mr. Peter David"_"male"_46_0_0_"28403"_26
+"399"_0_2_"Pain, Dr. Alfred"_"male"_23_0_0_"244278"_10.5
+"400"_1_2_"Trout, Mrs. William H (Jessie L)"_"female"_28_0_0_"240929"_12.65
+"401"_1_3_"Niskanen, Mr. Juha"_"male"_39_0_0_"STON/O 2. 3101289"_7.925
+"402"_0_3_"Adams, Mr. John"_"male"_26_0_0_"341826"_8.05
+"403"_0_3_"Jussila, Miss. Mari Aina"_"female"_21_1_0_"4137"_9.825
+"404"_0_3_"Hakkarainen, Mr. Pekka Pietari"_"male"_28_1_0_"STON/O2. 3101279"_15.85
+"405"_0_3_"Oreskovic, Miss. Marija"_"female"_20_0_0_"315096"_8.6625
+"406"_0_2_"Gale, Mr. Shadrach"_"male"_34_1_0_"28664"_21
+"407"_0_3_"Widegren, Mr. Carl/Charles Peter"_"male"_51_0_0_"347064"_7.75
+"408"_1_2_"Richards, Master. William Rowe"_"male"_3_1_1_"29106"_18.75
+"409"_0_3_"Birkeland, Mr. Hans Martin Monsen"_"male"_21_0_0_"312992"_7.775
+"410"_0_3_"Lefebre, Miss. Ida"_"female"_NA_3_1_"4133"_25.4667
+"411"_0_3_"Sdycoff, Mr. Todor"_"male"_NA_0_0_"349222"_7.8958
+"412"_0_3_"Hart, Mr. Henry"_"male"_NA_0_0_"394140"_6.8583
+"413"_1_1_"Minahan, Miss. Daisy E"_"female"_33_1_0_"19928"_90
+"414"_0_2_"Cunningham, Mr. Alfred Fleming"_"male"_NA_0_0_"239853"_0
+"415"_1_3_"Sundman, Mr. Johan Julian"_"male"_44_0_0_"STON/O 2. 3101269"_7.925
+"416"_0_3_"Meek, Mrs. Thomas (Annie Louise Rowley)"_"female"_NA_0_0_"343095"_8.05
+"417"_1_2_"Drew, Mrs. James Vivian (Lulu Thorne Christian)"_"female"_34_1_1_"28220"_32.5
+"418"_1_2_"Silven, Miss. Lyyli Karoliina"_"female"_18_0_2_"250652"_13
+"419"_0_2_"Matthews, Mr. William John"_"male"_30_0_0_"28228"_13
+"420"_0_3_"Van Impe, Miss. Catharina"_"female"_10_0_2_"345773"_24.15
+"421"_0_3_"Gheorgheff, Mr. Stanio"_"male"_NA_0_0_"349254"_7.8958
+"422"_0_3_"Charters, Mr. David"_"male"_21_0_0_"A/5. 13032"_7.7333
+"423"_0_3_"Zimmerman, Mr. Leo"_"male"_29_0_0_"315082"_7.875
+"424"_0_3_"Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)"_"female"_28_1_1_"347080"_14.4
+"425"_0_3_"Rosblom, Mr. Viktor Richard"_"male"_18_1_1_"370129"_20.2125
+"426"_0_3_"Wiseman, Mr. Phillippe"_"male"_NA_0_0_"A/4. 34244"_7.25
+"427"_1_2_"Clarke, Mrs. Charles V (Ada Maria Winfield)"_"female"_28_1_0_"2003"_26
+"428"_1_2_"Phillips, Miss. Kate Florence (\"Mrs Kate Louise Phillips Marshall\")"_"female"_19_0_0_"250655"_26
+"429"_0_3_"Flynn, Mr. James"_"male"_NA_0_0_"364851"_7.75
+"430"_1_3_"Pickard, Mr. Berk (Berk Trembisky)"_"male"_32_0_0_"SOTON/O.Q. 392078"_8.05
+"431"_1_1_"Bjornstrom-Steffansson, Mr. Mauritz Hakan"_"male"_28_0_0_"110564"_26.55
+"432"_1_3_"Thorneycroft, Mrs. Percival (Florence Kate White)"_"female"_NA_1_0_"376564"_16.1
+"433"_1_2_"Louch, Mrs. Charles Alexander (Alice Adelaide Slow)"_"female"_42_1_0_"SC/AH 3085"_26
+"434"_0_3_"Kallio, Mr. Nikolai Erland"_"male"_17_0_0_"STON/O 2. 3101274"_7.125
+"435"_0_1_"Silvey, Mr. William Baird"_"male"_50_1_0_"13507"_55.9
+"436"_1_1_"Carter, Miss. Lucile Polk"_"female"_14_1_2_"113760"_120
+"437"_0_3_"Ford, Miss. Doolina Margaret \"Daisy\""_"female"_21_2_2_"W./C. 6608"_34.375
+"438"_1_2_"Richards, Mrs. Sidney (Emily Hocking)"_"female"_24_2_3_"29106"_18.75
+"439"_0_1_"Fortune, Mr. Mark"_"male"_64_1_4_"19950"_263
+"440"_0_2_"Kvillner, Mr. Johan Henrik Johannesson"_"male"_31_0_0_"C.A. 18723"_10.5
+"441"_1_2_"Hart, Mrs. Benjamin (Esther Ada Bloomfield)"_"female"_45_1_1_"F.C.C. 13529"_26.25
+"442"_0_3_"Hampe, Mr. Leon"_"male"_20_0_0_"345769"_9.5
+"443"_0_3_"Petterson, Mr. Johan Emil"_"male"_25_1_0_"347076"_7.775
+"444"_1_2_"Reynaldo, Ms. Encarnacion"_"female"_28_0_0_"230434"_13
+"445"_1_3_"Johannesen-Bratthammer, Mr. Bernt"_"male"_NA_0_0_"65306"_8.1125
+"446"_1_1_"Dodge, Master. Washington"_"male"_4_0_2_"33638"_81.8583
+"447"_1_2_"Mellinger, Miss. Madeleine Violet"_"female"_13_0_1_"250644"_19.5
+"448"_1_1_"Seward, Mr. Frederic Kimber"_"male"_34_0_0_"113794"_26.55
+"449"_1_3_"Baclini, Miss. Marie Catherine"_"female"_5_2_1_"2666"_19.2583
+"450"_1_1_"Peuchen, Major. Arthur Godfrey"_"male"_52_0_0_"113786"_30.5
+"451"_0_2_"West, Mr. Edwy Arthur"_"male"_36_1_2_"C.A. 34651"_27.75
+"452"_0_3_"Hagland, Mr. Ingvald Olai Olsen"_"male"_NA_1_0_"65303"_19.9667
+"453"_0_1_"Foreman, Mr. Benjamin Laventall"_"male"_30_0_0_"113051"_27.75
+"454"_1_1_"Goldenberg, Mr. Samuel L"_"male"_49_1_0_"17453"_89.1042
+"455"_0_3_"Peduzzi, Mr. Joseph"_"male"_NA_0_0_"A/5 2817"_8.05
+"456"_1_3_"Jalsevac, Mr. Ivan"_"male"_29_0_0_"349240"_7.8958
+"457"_0_1_"Millet, Mr. Francis Davis"_"male"_65_0_0_"13509"_26.55
+"458"_1_1_"Kenyon, Mrs. Frederick R (Marion)"_"female"_NA_1_0_"17464"_51.8625
+"459"_1_2_"Toomey, Miss. Ellen"_"female"_50_0_0_"F.C.C. 13531"_10.5
+"460"_0_3_"O'Connor, Mr. Maurice"_"male"_NA_0_0_"371060"_7.75
+"461"_1_1_"Anderson, Mr. Harry"_"male"_48_0_0_"19952"_26.55
+"462"_0_3_"Morley, Mr. William"_"male"_34_0_0_"364506"_8.05
+"463"_0_1_"Gee, Mr. Arthur H"_"male"_47_0_0_"111320"_38.5
+"464"_0_2_"Milling, Mr. Jacob Christian"_"male"_48_0_0_"234360"_13
+"465"_0_3_"Maisner, Mr. Simon"_"male"_NA_0_0_"A/S 2816"_8.05
+"466"_0_3_"Goncalves, Mr. Manuel Estanslas"_"male"_38_0_0_"SOTON/O.Q. 3101306"_7.05
+"467"_0_2_"Campbell, Mr. William"_"male"_NA_0_0_"239853"_0
+"468"_0_1_"Smart, Mr. John Montgomery"_"male"_56_0_0_"113792"_26.55
+"469"_0_3_"Scanlan, Mr. James"_"male"_NA_0_0_"36209"_7.725
+"470"_1_3_"Baclini, Miss. Helene Barbara"_"female"_0.75_2_1_"2666"_19.2583
+"471"_0_3_"Keefe, Mr. Arthur"_"male"_NA_0_0_"323592"_7.25
+"472"_0_3_"Cacic, Mr. Luka"_"male"_38_0_0_"315089"_8.6625
+"473"_1_2_"West, Mrs. Edwy Arthur (Ada Mary Worth)"_"female"_33_1_2_"C.A. 34651"_27.75
+"474"_1_2_"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)"_"female"_23_0_0_"SC/AH Basle 541"_13.7917
+"475"_0_3_"Strandberg, Miss. Ida Sofia"_"female"_22_0_0_"7553"_9.8375
+"476"_0_1_"Clifford, Mr. George Quincy"_"male"_NA_0_0_"110465"_52
+"477"_0_2_"Renouf, Mr. Peter Henry"_"male"_34_1_0_"31027"_21
+"478"_0_3_"Braund, Mr. Lewis Richard"_"male"_29_1_0_"3460"_7.0458
+"479"_0_3_"Karlsson, Mr. Nils August"_"male"_22_0_0_"350060"_7.5208
+"480"_1_3_"Hirvonen, Miss. Hildur E"_"female"_2_0_1_"3101298"_12.2875
+"481"_0_3_"Goodwin, Master. Harold Victor"_"male"_9_5_2_"CA 2144"_46.9
+"482"_0_2_"Frost, Mr. Anthony Wood \"Archie\""_"male"_NA_0_0_"239854"_0
+"483"_0_3_"Rouse, Mr. Richard Henry"_"male"_50_0_0_"A/5 3594"_8.05
+"484"_1_3_"Turkula, Mrs. (Hedwig)"_"female"_63_0_0_"4134"_9.5875
+"485"_1_1_"Bishop, Mr. Dickinson H"_"male"_25_1_0_"11967"_91.0792
+"486"_0_3_"Lefebre, Miss. Jeannie"_"female"_NA_3_1_"4133"_25.4667
+"487"_1_1_"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)"_"female"_35_1_0_"19943"_90
+"488"_0_1_"Kent, Mr. Edward Austin"_"male"_58_0_0_"11771"_29.7
+"489"_0_3_"Somerton, Mr. Francis William"_"male"_30_0_0_"A.5. 18509"_8.05
+"490"_1_3_"Coutts, Master. Eden Leslie \"Neville\""_"male"_9_1_1_"C.A. 37671"_15.9
+"491"_0_3_"Hagland, Mr. Konrad Mathias Reiersen"_"male"_NA_1_0_"65304"_19.9667
+"492"_0_3_"Windelov, Mr. Einar"_"male"_21_0_0_"SOTON/OQ 3101317"_7.25
+"493"_0_1_"Molson, Mr. Harry Markland"_"male"_55_0_0_"113787"_30.5
+"494"_0_1_"Artagaveytia, Mr. Ramon"_"male"_71_0_0_"PC 17609"_49.5042
+"495"_0_3_"Stanley, Mr. Edward Roland"_"male"_21_0_0_"A/4 45380"_8.05
+"496"_0_3_"Yousseff, Mr. Gerious"_"male"_NA_0_0_"2627"_14.4583
+"497"_1_1_"Eustis, Miss. Elizabeth Mussey"_"female"_54_1_0_"36947"_78.2667
+"498"_0_3_"Shellard, Mr. Frederick William"_"male"_NA_0_0_"C.A. 6212"_15.1
+"499"_0_1_"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)"_"female"_25_1_2_"113781"_151.55
+"500"_0_3_"Svensson, Mr. Olof"_"male"_24_0_0_"350035"_7.7958
+"501"_0_3_"Calic, Mr. Petar"_"male"_17_0_0_"315086"_8.6625
+"502"_0_3_"Canavan, Miss. Mary"_"female"_21_0_0_"364846"_7.75
+"503"_0_3_"O'Sullivan, Miss. Bridget Mary"_"female"_NA_0_0_"330909"_7.6292
+"504"_0_3_"Laitinen, Miss. Kristina Sofia"_"female"_37_0_0_"4135"_9.5875
+"505"_1_1_"Maioni, Miss. Roberta"_"female"_16_0_0_"110152"_86.5
+"506"_0_1_"Penasco y Castellana, Mr. Victor de Satode"_"male"_18_1_0_"PC 17758"_108.9
+"507"_1_2_"Quick, Mrs. Frederick Charles (Jane Richards)"_"female"_33_0_2_"26360"_26
+"508"_1_1_"Bradley, Mr. George (\"George Arthur Brayton\")"_"male"_NA_0_0_"111427"_26.55
+"509"_0_3_"Olsen, Mr. Henry Margido"_"male"_28_0_0_"C 4001"_22.525
+"510"_1_3_"Lang, Mr. Fang"_"male"_26_0_0_"1601"_56.4958
+"511"_1_3_"Daly, Mr. Eugene Patrick"_"male"_29_0_0_"382651"_7.75
+"512"_0_3_"Webber, Mr. James"_"male"_NA_0_0_"SOTON/OQ 3101316"_8.05
+"513"_1_1_"McGough, Mr. James Robert"_"male"_36_0_0_"PC 17473"_26.2875
+"514"_1_1_"Rothschild, Mrs. Martin (Elizabeth L. Barrett)"_"female"_54_1_0_"PC 17603"_59.4
+"515"_0_3_"Coleff, Mr. Satio"_"male"_24_0_0_"349209"_7.4958
+"516"_0_1_"Walker, Mr. William Anderson"_"male"_47_0_0_"36967"_34.0208
+"517"_1_2_"Lemore, Mrs. (Amelia Milley)"_"female"_34_0_0_"C.A. 34260"_10.5
+"518"_0_3_"Ryan, Mr. Patrick"_"male"_NA_0_0_"371110"_24.15
+"519"_1_2_"Angle, Mrs. William A (Florence \"Mary\" Agnes Hughes)"_"female"_36_1_0_"226875"_26
+"520"_0_3_"Pavlovic, Mr. Stefo"_"male"_32_0_0_"349242"_7.8958
+"521"_1_1_"Perreault, Miss. Anne"_"female"_30_0_0_"12749"_93.5
+"522"_0_3_"Vovk, Mr. Janko"_"male"_22_0_0_"349252"_7.8958
+"523"_0_3_"Lahoud, Mr. Sarkis"_"male"_NA_0_0_"2624"_7.225
+"524"_1_1_"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)"_"female"_44_0_1_"111361"_57.9792
+"525"_0_3_"Kassem, Mr. Fared"_"male"_NA_0_0_"2700"_7.2292
+"526"_0_3_"Farrell, Mr. James"_"male"_40.5_0_0_"367232"_7.75
+"527"_1_2_"Ridsdale, Miss. Lucy"_"female"_50_0_0_"W./C. 14258"_10.5
+"528"_0_1_"Farthing, Mr. John"_"male"_NA_0_0_"PC 17483"_221.7792
+"529"_0_3_"Salonen, Mr. Johan Werner"_"male"_39_0_0_"3101296"_7.925
+"530"_0_2_"Hocking, Mr. Richard George"_"male"_23_2_1_"29104"_11.5
+"531"_1_2_"Quick, Miss. Phyllis May"_"female"_2_1_1_"26360"_26
+"532"_0_3_"Toufik, Mr. Nakli"_"male"_NA_0_0_"2641"_7.2292
+"533"_0_3_"Elias, Mr. Joseph Jr"_"male"_17_1_1_"2690"_7.2292
+"534"_1_3_"Peter, Mrs. Catherine (Catherine Rizk)"_"female"_NA_0_2_"2668"_22.3583
+"535"_0_3_"Cacic, Miss. Marija"_"female"_30_0_0_"315084"_8.6625
+"536"_1_2_"Hart, Miss. Eva Miriam"_"female"_7_0_2_"F.C.C. 13529"_26.25
+"537"_0_1_"Butt, Major. Archibald Willingham"_"male"_45_0_0_"113050"_26.55
+"538"_1_1_"LeRoy, Miss. Bertha"_"female"_30_0_0_"PC 17761"_106.425
+"539"_0_3_"Risien, Mr. Samuel Beard"_"male"_NA_0_0_"364498"_14.5
+"540"_1_1_"Frolicher, Miss. Hedwig Margaritha"_"female"_22_0_2_"13568"_49.5
+"541"_1_1_"Crosby, Miss. Harriet R"_"female"_36_0_2_"WE/P 5735"_71
+"542"_0_3_"Andersson, Miss. Ingeborg Constanzia"_"female"_9_4_2_"347082"_31.275
+"543"_0_3_"Andersson, Miss. Sigrid Elisabeth"_"female"_11_4_2_"347082"_31.275
+"544"_1_2_"Beane, Mr. Edward"_"male"_32_1_0_"2908"_26
+"545"_0_1_"Douglas, Mr. Walter Donald"_"male"_50_1_0_"PC 17761"_106.425
+"546"_0_1_"Nicholson, Mr. Arthur Ernest"_"male"_64_0_0_"693"_26
+"547"_1_2_"Beane, Mrs. Edward (Ethel Clarke)"_"female"_19_1_0_"2908"_26
+"548"_1_2_"Padro y Manent, Mr. Julian"_"male"_NA_0_0_"SC/PARIS 2146"_13.8625
+"549"_0_3_"Goldsmith, Mr. Frank John"_"male"_33_1_1_"363291"_20.525
+"550"_1_2_"Davies, Master. John Morgan Jr"_"male"_8_1_1_"C.A. 33112"_36.75
+"551"_1_1_"Thayer, Mr. John Borland Jr"_"male"_17_0_2_"17421"_110.8833
+"552"_0_2_"Sharp, Mr. Percival James R"_"male"_27_0_0_"244358"_26
+"553"_0_3_"O'Brien, Mr. Timothy"_"male"_NA_0_0_"330979"_7.8292
+"554"_1_3_"Leeni, Mr. Fahim (\"Philip Zenni\")"_"male"_22_0_0_"2620"_7.225
+"555"_1_3_"Ohman, Miss. Velin"_"female"_22_0_0_"347085"_7.775
+"556"_0_1_"Wright, Mr. George"_"male"_62_0_0_"113807"_26.55
+"557"_1_1_"Duff Gordon, Lady. (Lucille Christiana Sutherland) (\"Mrs Morgan\")"_"female"_48_1_0_"11755"_39.6
+"558"_0_1_"Robbins, Mr. Victor"_"male"_NA_0_0_"PC 17757"_227.525
+"559"_1_1_"Taussig, Mrs. Emil (Tillie Mandelbaum)"_"female"_39_1_1_"110413"_79.65
+"560"_1_3_"de Messemaeker, Mrs. Guillaume Joseph (Emma)"_"female"_36_1_0_"345572"_17.4
+"561"_0_3_"Morrow, Mr. Thomas Rowan"_"male"_NA_0_0_"372622"_7.75
+"562"_0_3_"Sivic, Mr. Husein"_"male"_40_0_0_"349251"_7.8958
+"563"_0_2_"Norman, Mr. Robert Douglas"_"male"_28_0_0_"218629"_13.5
+"564"_0_3_"Simmons, Mr. John"_"male"_NA_0_0_"SOTON/OQ 392082"_8.05
+"565"_0_3_"Meanwell, Miss. (Marion Ogden)"_"female"_NA_0_0_"SOTON/O.Q. 392087"_8.05
+"566"_0_3_"Davies, Mr. Alfred J"_"male"_24_2_0_"A/4 48871"_24.15
+"567"_0_3_"Stoytcheff, Mr. Ilia"_"male"_19_0_0_"349205"_7.8958
+"568"_0_3_"Palsson, Mrs. Nils (Alma Cornelia Berglund)"_"female"_29_0_4_"349909"_21.075
+"569"_0_3_"Doharr, Mr. Tannous"_"male"_NA_0_0_"2686"_7.2292
+"570"_1_3_"Jonsson, Mr. Carl"_"male"_32_0_0_"350417"_7.8542
+"571"_1_2_"Harris, Mr. George"_"male"_62_0_0_"S.W./PP 752"_10.5
+"572"_1_1_"Appleton, Mrs. Edward Dale (Charlotte Lamson)"_"female"_53_2_0_"11769"_51.4792
+"573"_1_1_"Flynn, Mr. John Irwin (\"Irving\")"_"male"_36_0_0_"PC 17474"_26.3875
+"574"_1_3_"Kelly, Miss. Mary"_"female"_NA_0_0_"14312"_7.75
+"575"_0_3_"Rush, Mr. Alfred George John"_"male"_16_0_0_"A/4. 20589"_8.05
+"576"_0_3_"Patchett, Mr. George"_"male"_19_0_0_"358585"_14.5
+"577"_1_2_"Garside, Miss. Ethel"_"female"_34_0_0_"243880"_13
+"578"_1_1_"Silvey, Mrs. William Baird (Alice Munger)"_"female"_39_1_0_"13507"_55.9
+"579"_0_3_"Caram, Mrs. Joseph (Maria Elias)"_"female"_NA_1_0_"2689"_14.4583
+"580"_1_3_"Jussila, Mr. Eiriik"_"male"_32_0_0_"STON/O 2. 3101286"_7.925
+"581"_1_2_"Christy, Miss. Julie Rachel"_"female"_25_1_1_"237789"_30
+"582"_1_1_"Thayer, Mrs. John Borland (Marian Longstreth Morris)"_"female"_39_1_1_"17421"_110.8833
+"583"_0_2_"Downton, Mr. William James"_"male"_54_0_0_"28403"_26
+"584"_0_1_"Ross, Mr. John Hugo"_"male"_36_0_0_"13049"_40.125
+"585"_0_3_"Paulner, Mr. Uscher"_"male"_NA_0_0_"3411"_8.7125
+"586"_1_1_"Taussig, Miss. Ruth"_"female"_18_0_2_"110413"_79.65
+"587"_0_2_"Jarvis, Mr. John Denzil"_"male"_47_0_0_"237565"_15
+"588"_1_1_"Frolicher-Stehli, Mr. Maxmillian"_"male"_60_1_1_"13567"_79.2
+"589"_0_3_"Gilinski, Mr. Eliezer"_"male"_22_0_0_"14973"_8.05
+"590"_0_3_"Murdlin, Mr. Joseph"_"male"_NA_0_0_"A./5. 3235"_8.05
+"591"_0_3_"Rintamaki, Mr. Matti"_"male"_35_0_0_"STON/O 2. 3101273"_7.125
+"592"_1_1_"Stephenson, Mrs. Walter Bertram (Martha Eustis)"_"female"_52_1_0_"36947"_78.2667
+"593"_0_3_"Elsbury, Mr. William James"_"male"_47_0_0_"A/5 3902"_7.25
+"594"_0_3_"Bourke, Miss. Mary"_"female"_NA_0_2_"364848"_7.75
+"595"_0_2_"Chapman, Mr. John Henry"_"male"_37_1_0_"SC/AH 29037"_26
+"596"_0_3_"Van Impe, Mr. Jean Baptiste"_"male"_36_1_1_"345773"_24.15
+"597"_1_2_"Leitch, Miss. Jessie Wills"_"female"_NA_0_0_"248727"_33
+"598"_0_3_"Johnson, Mr. Alfred"_"male"_49_0_0_"LINE"_0
+"599"_0_3_"Boulos, Mr. Hanna"_"male"_NA_0_0_"2664"_7.225
+"600"_1_1_"Duff Gordon, Sir. Cosmo Edmund (\"Mr Morgan\")"_"male"_49_1_0_"PC 17485"_56.9292
+"601"_1_2_"Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)"_"female"_24_2_1_"243847"_27
+"602"_0_3_"Slabenoff, Mr. Petco"_"male"_NA_0_0_"349214"_7.8958
+"603"_0_1_"Harrington, Mr. Charles H"_"male"_NA_0_0_"113796"_42.4
+"604"_0_3_"Torber, Mr. Ernst William"_"male"_44_0_0_"364511"_8.05
+"605"_1_1_"Homer, Mr. Harry (\"Mr E Haven\")"_"male"_35_0_0_"111426"_26.55
+"606"_0_3_"Lindell, Mr. Edvard Bengtsson"_"male"_36_1_0_"349910"_15.55
+"607"_0_3_"Karaic, Mr. Milan"_"male"_30_0_0_"349246"_7.8958
+"608"_1_1_"Daniel, Mr. Robert Williams"_"male"_27_0_0_"113804"_30.5
+"609"_1_2_"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)"_"female"_22_1_2_"SC/Paris 2123"_41.5792
+"610"_1_1_"Shutes, Miss. Elizabeth W"_"female"_40_0_0_"PC 17582"_153.4625
+"611"_0_3_"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)"_"female"_39_1_5_"347082"_31.275
+"612"_0_3_"Jardin, Mr. Jose Neto"_"male"_NA_0_0_"SOTON/O.Q. 3101305"_7.05
+"613"_1_3_"Murphy, Miss. Margaret Jane"_"female"_NA_1_0_"367230"_15.5
+"614"_0_3_"Horgan, Mr. John"_"male"_NA_0_0_"370377"_7.75
+"615"_0_3_"Brocklebank, Mr. William Alfred"_"male"_35_0_0_"364512"_8.05
+"616"_1_2_"Herman, Miss. Alice"_"female"_24_1_2_"220845"_65
+"617"_0_3_"Danbom, Mr. Ernst Gilbert"_"male"_34_1_1_"347080"_14.4
+"618"_0_3_"Lobb, Mrs. William Arthur (Cordelia K Stanlick)"_"female"_26_1_0_"A/5. 3336"_16.1
+"619"_1_2_"Becker, Miss. Marion Louise"_"female"_4_2_1_"230136"_39
+"620"_0_2_"Gavey, Mr. Lawrence"_"male"_26_0_0_"31028"_10.5
+"621"_0_3_"Yasbeck, Mr. Antoni"_"male"_27_1_0_"2659"_14.4542
+"622"_1_1_"Kimball, Mr. Edwin Nelson Jr"_"male"_42_1_0_"11753"_52.5542
+"623"_1_3_"Nakid, Mr. Sahid"_"male"_20_1_1_"2653"_15.7417
+"624"_0_3_"Hansen, Mr. Henry Damsgaard"_"male"_21_0_0_"350029"_7.8542
+"625"_0_3_"Bowen, Mr. David John \"Dai\""_"male"_21_0_0_"54636"_16.1
+"626"_0_1_"Sutton, Mr. Frederick"_"male"_61_0_0_"36963"_32.3208
+"627"_0_2_"Kirkland, Rev. Charles Leonard"_"male"_57_0_0_"219533"_12.35
+"628"_1_1_"Longley, Miss. Gretchen Fiske"_"female"_21_0_0_"13502"_77.9583
+"629"_0_3_"Bostandyeff, Mr. Guentcho"_"male"_26_0_0_"349224"_7.8958
+"630"_0_3_"O'Connell, Mr. Patrick D"_"male"_NA_0_0_"334912"_7.7333
+"631"_1_1_"Barkworth, Mr. Algernon Henry Wilson"_"male"_80_0_0_"27042"_30
+"632"_0_3_"Lundahl, Mr. Johan Svensson"_"male"_51_0_0_"347743"_7.0542
+"633"_1_1_"Stahelin-Maeglin, Dr. Max"_"male"_32_0_0_"13214"_30.5
+"634"_0_1_"Parr, Mr. William Henry Marsh"_"male"_NA_0_0_"112052"_0
+"635"_0_3_"Skoog, Miss. Mabel"_"female"_9_3_2_"347088"_27.9
+"636"_1_2_"Davis, Miss. Mary"_"female"_28_0_0_"237668"_13
+"637"_0_3_"Leinonen, Mr. Antti Gustaf"_"male"_32_0_0_"STON/O 2. 3101292"_7.925
+"638"_0_2_"Collyer, Mr. Harvey"_"male"_31_1_1_"C.A. 31921"_26.25
+"639"_0_3_"Panula, Mrs. Juha (Maria Emilia Ojala)"_"female"_41_0_5_"3101295"_39.6875
+"640"_0_3_"Thorneycroft, Mr. Percival"_"male"_NA_1_0_"376564"_16.1
+"641"_0_3_"Jensen, Mr. Hans Peder"_"male"_20_0_0_"350050"_7.8542
+"642"_1_1_"Sagesser, Mlle. Emma"_"female"_24_0_0_"PC 17477"_69.3
+"643"_0_3_"Skoog, Miss. Margit Elizabeth"_"female"_2_3_2_"347088"_27.9
+"644"_1_3_"Foo, Mr. Choong"_"male"_NA_0_0_"1601"_56.4958
+"645"_1_3_"Baclini, Miss. Eugenie"_"female"_0.75_2_1_"2666"_19.2583
+"646"_1_1_"Harper, Mr. Henry Sleeper"_"male"_48_1_0_"PC 17572"_76.7292
+"647"_0_3_"Cor, Mr. Liudevit"_"male"_19_0_0_"349231"_7.8958
+"648"_1_1_"Simonius-Blumer, Col. Oberst Alfons"_"male"_56_0_0_"13213"_35.5
+"649"_0_3_"Willey, Mr. Edward"_"male"_NA_0_0_"S.O./P.P. 751"_7.55
+"650"_1_3_"Stanley, Miss. Amy Zillah Elsie"_"female"_23_0_0_"CA. 2314"_7.55
+"651"_0_3_"Mitkoff, Mr. Mito"_"male"_NA_0_0_"349221"_7.8958
+"652"_1_2_"Doling, Miss. Elsie"_"female"_18_0_1_"231919"_23
+"653"_0_3_"Kalvik, Mr. Johannes Halvorsen"_"male"_21_0_0_"8475"_8.4333
+"654"_1_3_"O'Leary, Miss. Hanora \"Norah\""_"female"_NA_0_0_"330919"_7.8292
+"655"_0_3_"Hegarty, Miss. Hanora \"Nora\""_"female"_18_0_0_"365226"_6.75
+"656"_0_2_"Hickman, Mr. Leonard Mark"_"male"_24_2_0_"S.O.C. 14879"_73.5
+"657"_0_3_"Radeff, Mr. Alexander"_"male"_NA_0_0_"349223"_7.8958
+"658"_0_3_"Bourke, Mrs. John (Catherine)"_"female"_32_1_1_"364849"_15.5
+"659"_0_2_"Eitemiller, Mr. George Floyd"_"male"_23_0_0_"29751"_13
+"660"_0_1_"Newell, Mr. Arthur Webster"_"male"_58_0_2_"35273"_113.275
+"661"_1_1_"Frauenthal, Dr. Henry William"_"male"_50_2_0_"PC 17611"_133.65
+"662"_0_3_"Badt, Mr. Mohamed"_"male"_40_0_0_"2623"_7.225
+"663"_0_1_"Colley, Mr. Edward Pomeroy"_"male"_47_0_0_"5727"_25.5875
+"664"_0_3_"Coleff, Mr. Peju"_"male"_36_0_0_"349210"_7.4958
+"665"_1_3_"Lindqvist, Mr. Eino William"_"male"_20_1_0_"STON/O 2. 3101285"_7.925
+"666"_0_2_"Hickman, Mr. Lewis"_"male"_32_2_0_"S.O.C. 14879"_73.5
+"667"_0_2_"Butler, Mr. Reginald Fenton"_"male"_25_0_0_"234686"_13
+"668"_0_3_"Rommetvedt, Mr. Knud Paust"_"male"_NA_0_0_"312993"_7.775
+"669"_0_3_"Cook, Mr. Jacob"_"male"_43_0_0_"A/5 3536"_8.05
+"670"_1_1_"Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)"_"female"_NA_1_0_"19996"_52
+"671"_1_2_"Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)"_"female"_40_1_1_"29750"_39
+"672"_0_1_"Davidson, Mr. Thornton"_"male"_31_1_0_"F.C. 12750"_52
+"673"_0_2_"Mitchell, Mr. Henry Michael"_"male"_70_0_0_"C.A. 24580"_10.5
+"674"_1_2_"Wilhelms, Mr. Charles"_"male"_31_0_0_"244270"_13
+"675"_0_2_"Watson, Mr. Ennis Hastings"_"male"_NA_0_0_"239856"_0
+"676"_0_3_"Edvardsson, Mr. Gustaf Hjalmar"_"male"_18_0_0_"349912"_7.775
+"677"_0_3_"Sawyer, Mr. Frederick Charles"_"male"_24.5_0_0_"342826"_8.05
+"678"_1_3_"Turja, Miss. Anna Sofia"_"female"_18_0_0_"4138"_9.8417
+"679"_0_3_"Goodwin, Mrs. Frederick (Augusta Tyler)"_"female"_43_1_6_"CA 2144"_46.9
+"680"_1_1_"Cardeza, Mr. Thomas Drake Martinez"_"male"_36_0_1_"PC 17755"_512.3292
+"681"_0_3_"Peters, Miss. Katie"_"female"_NA_0_0_"330935"_8.1375
+"682"_1_1_"Hassab, Mr. Hammad"_"male"_27_0_0_"PC 17572"_76.7292
+"683"_0_3_"Olsvigen, Mr. Thor Anderson"_"male"_20_0_0_"6563"_9.225
+"684"_0_3_"Goodwin, Mr. Charles Edward"_"male"_14_5_2_"CA 2144"_46.9
+"685"_0_2_"Brown, Mr. Thomas William Solomon"_"male"_60_1_1_"29750"_39
+"686"_0_2_"Laroche, Mr. Joseph Philippe Lemercier"_"male"_25_1_2_"SC/Paris 2123"_41.5792
+"687"_0_3_"Panula, Mr. Jaako Arnold"_"male"_14_4_1_"3101295"_39.6875
+"688"_0_3_"Dakic, Mr. Branko"_"male"_19_0_0_"349228"_10.1708
+"689"_0_3_"Fischer, Mr. Eberhard Thelander"_"male"_18_0_0_"350036"_7.7958
+"690"_1_1_"Madill, Miss. Georgette Alexandra"_"female"_15_0_1_"24160"_211.3375
+"691"_1_1_"Dick, Mr. Albert Adrian"_"male"_31_1_0_"17474"_57
+"692"_1_3_"Karun, Miss. Manca"_"female"_4_0_1_"349256"_13.4167
+"693"_1_3_"Lam, Mr. Ali"_"male"_NA_0_0_"1601"_56.4958
+"694"_0_3_"Saad, Mr. Khalil"_"male"_25_0_0_"2672"_7.225
+"695"_0_1_"Weir, Col. John"_"male"_60_0_0_"113800"_26.55
+"696"_0_2_"Chapman, Mr. Charles Henry"_"male"_52_0_0_"248731"_13.5
+"697"_0_3_"Kelly, Mr. James"_"male"_44_0_0_"363592"_8.05
+"698"_1_3_"Mullens, Miss. Katherine \"Katie\""_"female"_NA_0_0_"35852"_7.7333
+"699"_0_1_"Thayer, Mr. John Borland"_"male"_49_1_1_"17421"_110.8833
+"700"_0_3_"Humblen, Mr. Adolf Mathias Nicolai Olsen"_"male"_42_0_0_"348121"_7.65
+"701"_1_1_"Astor, Mrs. John Jacob (Madeleine Talmadge Force)"_"female"_18_1_0_"PC 17757"_227.525
+"702"_1_1_"Silverthorne, Mr. Spencer Victor"_"male"_35_0_0_"PC 17475"_26.2875
+"703"_0_3_"Barbara, Miss. Saiide"_"female"_18_0_1_"2691"_14.4542
+"704"_0_3_"Gallagher, Mr. Martin"_"male"_25_0_0_"36864"_7.7417
+"705"_0_3_"Hansen, Mr. Henrik Juul"_"male"_26_1_0_"350025"_7.8542
+"706"_0_2_"Morley, Mr. Henry Samuel (\"Mr Henry Marshall\")"_"male"_39_0_0_"250655"_26
+"707"_1_2_"Kelly, Mrs. Florence \"Fannie\""_"female"_45_0_0_"223596"_13.5
+"708"_1_1_"Calderhead, Mr. Edward Pennington"_"male"_42_0_0_"PC 17476"_26.2875
+"709"_1_1_"Cleaver, Miss. Alice"_"female"_22_0_0_"113781"_151.55
+"710"_1_3_"Moubarek, Master. Halim Gonios (\"William George\")"_"male"_NA_1_1_"2661"_15.2458
+"711"_1_1_"Mayne, Mlle. Berthe Antonine (\"Mrs de Villiers\")"_"female"_24_0_0_"PC 17482"_49.5042
+"712"_0_1_"Klaber, Mr. Herman"_"male"_NA_0_0_"113028"_26.55
+"713"_1_1_"Taylor, Mr. Elmer Zebley"_"male"_48_1_0_"19996"_52
+"714"_0_3_"Larsson, Mr. August Viktor"_"male"_29_0_0_"7545"_9.4833
+"715"_0_2_"Greenberg, Mr. Samuel"_"male"_52_0_0_"250647"_13
+"716"_0_3_"Soholt, Mr. Peter Andreas Lauritz Andersen"_"male"_19_0_0_"348124"_7.65
+"717"_1_1_"Endres, Miss. Caroline Louise"_"female"_38_0_0_"PC 17757"_227.525
+"718"_1_2_"Troutt, Miss. Edwina Celia \"Winnie\""_"female"_27_0_0_"34218"_10.5
+"719"_0_3_"McEvoy, Mr. Michael"_"male"_NA_0_0_"36568"_15.5
+"720"_0_3_"Johnson, Mr. Malkolm Joackim"_"male"_33_0_0_"347062"_7.775
+"721"_1_2_"Harper, Miss. Annie Jessie \"Nina\""_"female"_6_0_1_"248727"_33
+"722"_0_3_"Jensen, Mr. Svend Lauritz"_"male"_17_1_0_"350048"_7.0542
+"723"_0_2_"Gillespie, Mr. William Henry"_"male"_34_0_0_"12233"_13
+"724"_0_2_"Hodges, Mr. Henry Price"_"male"_50_0_0_"250643"_13
+"725"_1_1_"Chambers, Mr. Norman Campbell"_"male"_27_1_0_"113806"_53.1
+"726"_0_3_"Oreskovic, Mr. Luka"_"male"_20_0_0_"315094"_8.6625
+"727"_1_2_"Renouf, Mrs. Peter Henry (Lillian Jefferys)"_"female"_30_3_0_"31027"_21
+"728"_1_3_"Mannion, Miss. Margareth"_"female"_NA_0_0_"36866"_7.7375
+"729"_0_2_"Bryhl, Mr. Kurt Arnold Gottfrid"_"male"_25_1_0_"236853"_26
+"730"_0_3_"Ilmakangas, Miss. Pieta Sofia"_"female"_25_1_0_"STON/O2. 3101271"_7.925
+"731"_1_1_"Allen, Miss. Elisabeth Walton"_"female"_29_0_0_"24160"_211.3375
+"732"_0_3_"Hassan, Mr. Houssein G N"_"male"_11_0_0_"2699"_18.7875
+"733"_0_2_"Knight, Mr. Robert J"_"male"_NA_0_0_"239855"_0
+"734"_0_2_"Berriman, Mr. William John"_"male"_23_0_0_"28425"_13
+"735"_0_2_"Troupiansky, Mr. Moses Aaron"_"male"_23_0_0_"233639"_13
+"736"_0_3_"Williams, Mr. Leslie"_"male"_28.5_0_0_"54636"_16.1
+"737"_0_3_"Ford, Mrs. Edward (Margaret Ann Watson)"_"female"_48_1_3_"W./C. 6608"_34.375
+"738"_1_1_"Lesurer, Mr. Gustave J"_"male"_35_0_0_"PC 17755"_512.3292
+"739"_0_3_"Ivanoff, Mr. Kanio"_"male"_NA_0_0_"349201"_7.8958
+"740"_0_3_"Nankoff, Mr. Minko"_"male"_NA_0_0_"349218"_7.8958
+"741"_1_1_"Hawksford, Mr. Walter James"_"male"_NA_0_0_"16988"_30
+"742"_0_1_"Cavendish, Mr. Tyrell William"_"male"_36_1_0_"19877"_78.85
+"743"_1_1_"Ryerson, Miss. Susan Parker \"Suzette\""_"female"_21_2_2_"PC 17608"_262.375
+"744"_0_3_"McNamee, Mr. Neal"_"male"_24_1_0_"376566"_16.1
+"745"_1_3_"Stranden, Mr. Juho"_"male"_31_0_0_"STON/O 2. 3101288"_7.925
+"746"_0_1_"Crosby, Capt. Edward Gifford"_"male"_70_1_1_"WE/P 5735"_71
+"747"_0_3_"Abbott, Mr. Rossmore Edward"_"male"_16_1_1_"C.A. 2673"_20.25
+"748"_1_2_"Sinkkonen, Miss. Anna"_"female"_30_0_0_"250648"_13
+"749"_0_1_"Marvin, Mr. Daniel Warner"_"male"_19_1_0_"113773"_53.1
+"750"_0_3_"Connaghton, Mr. Michael"_"male"_31_0_0_"335097"_7.75
+"751"_1_2_"Wells, Miss. Joan"_"female"_4_1_1_"29103"_23
+"752"_1_3_"Moor, Master. Meier"_"male"_6_0_1_"392096"_12.475
+"753"_0_3_"Vande Velde, Mr. Johannes Joseph"_"male"_33_0_0_"345780"_9.5
+"754"_0_3_"Jonkoff, Mr. Lalio"_"male"_23_0_0_"349204"_7.8958
+"755"_1_2_"Herman, Mrs. Samuel (Jane Laver)"_"female"_48_1_2_"220845"_65
+"756"_1_2_"Hamalainen, Master. Viljo"_"male"_0.67_1_1_"250649"_14.5
+"757"_0_3_"Carlsson, Mr. August Sigfrid"_"male"_28_0_0_"350042"_7.7958
+"758"_0_2_"Bailey, Mr. Percy Andrew"_"male"_18_0_0_"29108"_11.5
+"759"_0_3_"Theobald, Mr. Thomas Leonard"_"male"_34_0_0_"363294"_8.05
+"760"_1_1_"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)"_"female"_33_0_0_"110152"_86.5
+"761"_0_3_"Garfirth, Mr. John"_"male"_NA_0_0_"358585"_14.5
+"762"_0_3_"Nirva, Mr. Iisakki Antino Aijo"_"male"_41_0_0_"SOTON/O2 3101272"_7.125
+"763"_1_3_"Barah, Mr. Hanna Assi"_"male"_20_0_0_"2663"_7.2292
+"764"_1_1_"Carter, Mrs. William Ernest (Lucile Polk)"_"female"_36_1_2_"113760"_120
+"765"_0_3_"Eklund, Mr. Hans Linus"_"male"_16_0_0_"347074"_7.775
+"766"_1_1_"Hogeboom, Mrs. John C (Anna Andrews)"_"female"_51_1_0_"13502"_77.9583
+"767"_0_1_"Brewe, Dr. Arthur Jackson"_"male"_NA_0_0_"112379"_39.6
+"768"_0_3_"Mangan, Miss. Mary"_"female"_30.5_0_0_"364850"_7.75
+"769"_0_3_"Moran, Mr. Daniel J"_"male"_NA_1_0_"371110"_24.15
+"770"_0_3_"Gronnestad, Mr. Daniel Danielsen"_"male"_32_0_0_"8471"_8.3625
+"771"_0_3_"Lievens, Mr. Rene Aime"_"male"_24_0_0_"345781"_9.5
+"772"_0_3_"Jensen, Mr. Niels Peder"_"male"_48_0_0_"350047"_7.8542
+"773"_0_2_"Mack, Mrs. (Mary)"_"female"_57_0_0_"S.O./P.P. 3"_10.5
+"774"_0_3_"Elias, Mr. Dibo"_"male"_NA_0_0_"2674"_7.225
+"775"_1_2_"Hocking, Mrs. Elizabeth (Eliza Needs)"_"female"_54_1_3_"29105"_23
+"776"_0_3_"Myhrman, Mr. Pehr Fabian Oliver Malkolm"_"male"_18_0_0_"347078"_7.75
+"777"_0_3_"Tobin, Mr. Roger"_"male"_NA_0_0_"383121"_7.75
+"778"_1_3_"Emanuel, Miss. Virginia Ethel"_"female"_5_0_0_"364516"_12.475
+"779"_0_3_"Kilgannon, Mr. Thomas J"_"male"_NA_0_0_"36865"_7.7375
+"780"_1_1_"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)"_"female"_43_0_1_"24160"_211.3375
+"781"_1_3_"Ayoub, Miss. Banoura"_"female"_13_0_0_"2687"_7.2292
+"782"_1_1_"Dick, Mrs. Albert Adrian (Vera Gillespie)"_"female"_17_1_0_"17474"_57
+"783"_0_1_"Long, Mr. Milton Clyde"_"male"_29_0_0_"113501"_30
+"784"_0_3_"Johnston, Mr. Andrew G"_"male"_NA_1_2_"W./C. 6607"_23.45
+"785"_0_3_"Ali, Mr. William"_"male"_25_0_0_"SOTON/O.Q. 3101312"_7.05
+"786"_0_3_"Harmer, Mr. Abraham (David Lishin)"_"male"_25_0_0_"374887"_7.25
+"787"_1_3_"Sjoblom, Miss. Anna Sofia"_"female"_18_0_0_"3101265"_7.4958
+"788"_0_3_"Rice, Master. George Hugh"_"male"_8_4_1_"382652"_29.125
+"789"_1_3_"Dean, Master. Bertram Vere"_"male"_1_1_2_"C.A. 2315"_20.575
+"790"_0_1_"Guggenheim, Mr. Benjamin"_"male"_46_0_0_"PC 17593"_79.2
+"791"_0_3_"Keane, Mr. Andrew \"Andy\""_"male"_NA_0_0_"12460"_7.75
+"792"_0_2_"Gaskell, Mr. Alfred"_"male"_16_0_0_"239865"_26
+"793"_0_3_"Sage, Miss. Stella Anna"_"female"_NA_8_2_"CA. 2343"_69.55
+"794"_0_1_"Hoyt, Mr. William Fisher"_"male"_NA_0_0_"PC 17600"_30.6958
+"795"_0_3_"Dantcheff, Mr. Ristiu"_"male"_25_0_0_"349203"_7.8958
+"796"_0_2_"Otter, Mr. Richard"_"male"_39_0_0_"28213"_13
+"797"_1_1_"Leader, Dr. Alice (Farnham)"_"female"_49_0_0_"17465"_25.9292
+"798"_1_3_"Osman, Mrs. Mara"_"female"_31_0_0_"349244"_8.6833
+"799"_0_3_"Ibrahim Shawah, Mr. Yousseff"_"male"_30_0_0_"2685"_7.2292
+"800"_0_3_"Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)"_"female"_30_1_1_"345773"_24.15
+"801"_0_2_"Ponesell, Mr. Martin"_"male"_34_0_0_"250647"_13
+"802"_1_2_"Collyer, Mrs. Harvey (Charlotte Annie Tate)"_"female"_31_1_1_"C.A. 31921"_26.25
+"803"_1_1_"Carter, Master. William Thornton II"_"male"_11_1_2_"113760"_120
+"804"_1_3_"Thomas, Master. Assad Alexander"_"male"_0.42_0_1_"2625"_8.5167
+"805"_1_3_"Hedman, Mr. Oskar Arvid"_"male"_27_0_0_"347089"_6.975
+"806"_0_3_"Johansson, Mr. Karl Johan"_"male"_31_0_0_"347063"_7.775
+"807"_0_1_"Andrews, Mr. Thomas Jr"_"male"_39_0_0_"112050"_0
+"808"_0_3_"Pettersson, Miss. Ellen Natalia"_"female"_18_0_0_"347087"_7.775
+"809"_0_2_"Meyer, Mr. August"_"male"_39_0_0_"248723"_13
+"810"_1_1_"Chambers, Mrs. Norman Campbell (Bertha Griggs)"_"female"_33_1_0_"113806"_53.1
+"811"_0_3_"Alexander, Mr. William"_"male"_26_0_0_"3474"_7.8875
+"812"_0_3_"Lester, Mr. James"_"male"_39_0_0_"A/4 48871"_24.15
+"813"_0_2_"Slemen, Mr. Richard James"_"male"_35_0_0_"28206"_10.5
+"814"_0_3_"Andersson, Miss. Ebba Iris Alfrida"_"female"_6_4_2_"347082"_31.275
+"815"_0_3_"Tomlin, Mr. Ernest Portage"_"male"_30.5_0_0_"364499"_8.05
+"816"_0_1_"Fry, Mr. Richard"_"male"_NA_0_0_"112058"_0
+"817"_0_3_"Heininen, Miss. Wendla Maria"_"female"_23_0_0_"STON/O2. 3101290"_7.925
+"818"_0_2_"Mallet, Mr. Albert"_"male"_31_1_1_"S.C./PARIS 2079"_37.0042
+"819"_0_3_"Holm, Mr. John Fredrik Alexander"_"male"_43_0_0_"C 7075"_6.45
+"820"_0_3_"Skoog, Master. Karl Thorsten"_"male"_10_3_2_"347088"_27.9
+"821"_1_1_"Hays, Mrs. Charles Melville (Clara Jennings Gregg)"_"female"_52_1_1_"12749"_93.5
+"822"_1_3_"Lulic, Mr. Nikola"_"male"_27_0_0_"315098"_8.6625
+"823"_0_1_"Reuchlin, Jonkheer. John George"_"male"_38_0_0_"19972"_0
+"824"_1_3_"Moor, Mrs. (Beila)"_"female"_27_0_1_"392096"_12.475
+"825"_0_3_"Panula, Master. Urho Abraham"_"male"_2_4_1_"3101295"_39.6875
+"826"_0_3_"Flynn, Mr. John"_"male"_NA_0_0_"368323"_6.95
+"827"_0_3_"Lam, Mr. Len"_"male"_NA_0_0_"1601"_56.4958
+"828"_1_2_"Mallet, Master. Andre"_"male"_1_0_2_"S.C./PARIS 2079"_37.0042
+"829"_1_3_"McCormack, Mr. Thomas Joseph"_"male"_NA_0_0_"367228"_7.75
+"830"_1_1_"Stone, Mrs. George Nelson (Martha Evelyn)"_"female"_62_0_0_"113572"_80
+"831"_1_3_"Yasbeck, Mrs. Antoni (Selini Alexander)"_"female"_15_1_0_"2659"_14.4542
+"832"_1_2_"Richards, Master. George Sibley"_"male"_0.83_1_1_"29106"_18.75
+"833"_0_3_"Saad, Mr. Amin"_"male"_NA_0_0_"2671"_7.2292
+"834"_0_3_"Augustsson, Mr. Albert"_"male"_23_0_0_"347468"_7.8542
+"835"_0_3_"Allum, Mr. Owen George"_"male"_18_0_0_"2223"_8.3
+"836"_1_1_"Compton, Miss. Sara Rebecca"_"female"_39_1_1_"PC 17756"_83.1583
+"837"_0_3_"Pasic, Mr. Jakob"_"male"_21_0_0_"315097"_8.6625
+"838"_0_3_"Sirota, Mr. Maurice"_"male"_NA_0_0_"392092"_8.05
+"839"_1_3_"Chip, Mr. Chang"_"male"_32_0_0_"1601"_56.4958
+"840"_1_1_"Marechal, Mr. Pierre"_"male"_NA_0_0_"11774"_29.7
+"841"_0_3_"Alhomaki, Mr. Ilmari Rudolf"_"male"_20_0_0_"SOTON/O2 3101287"_7.925
+"842"_0_2_"Mudd, Mr. Thomas Charles"_"male"_16_0_0_"S.O./P.P. 3"_10.5
+"843"_1_1_"Serepeca, Miss. Augusta"_"female"_30_0_0_"113798"_31
+"844"_0_3_"Lemberopolous, Mr. Peter L"_"male"_34.5_0_0_"2683"_6.4375
+"845"_0_3_"Culumovic, Mr. Jeso"_"male"_17_0_0_"315090"_8.6625
+"846"_0_3_"Abbing, Mr. Anthony"_"male"_42_0_0_"C.A. 5547"_7.55
+"847"_0_3_"Sage, Mr. Douglas Bullen"_"male"_NA_8_2_"CA. 2343"_69.55
+"848"_0_3_"Markoff, Mr. Marin"_"male"_35_0_0_"349213"_7.8958
+"849"_0_2_"Harper, Rev. John"_"male"_28_0_1_"248727"_33
+"850"_1_1_"Goldenberg, Mrs. Samuel L (Edwiga Grabowska)"_"female"_NA_1_0_"17453"_89.1042
+"851"_0_3_"Andersson, Master. Sigvard Harald Elias"_"male"_4_4_2_"347082"_31.275
+"852"_0_3_"Svensson, Mr. Johan"_"male"_74_0_0_"347060"_7.775
+"853"_0_3_"Boulos, Miss. Nourelain"_"female"_9_1_1_"2678"_15.2458
+"854"_1_1_"Lines, Miss. Mary Conover"_"female"_16_0_1_"PC 17592"_39.4
+"855"_0_2_"Carter, Mrs. Ernest Courtenay (Lilian Hughes)"_"female"_44_1_0_"244252"_26
+"856"_1_3_"Aks, Mrs. Sam (Leah Rosen)"_"female"_18_0_1_"392091"_9.35
+"857"_1_1_"Wick, Mrs. George Dennick (Mary Hitchcock)"_"female"_45_1_1_"36928"_164.8667
+"858"_1_1_"Daly, Mr. Peter Denis "_"male"_51_0_0_"113055"_26.55
+"859"_1_3_"Baclini, Mrs. Solomon (Latifa Qurban)"_"female"_24_0_3_"2666"_19.2583
+"860"_0_3_"Razi, Mr. Raihed"_"male"_NA_0_0_"2629"_7.2292
+"861"_0_3_"Hansen, Mr. Claus Peter"_"male"_41_2_0_"350026"_14.1083
+"862"_0_2_"Giles, Mr. Frederick Edward"_"male"_21_1_0_"28134"_11.5
+"863"_1_1_"Swift, Mrs. Frederick Joel (Margaret Welles Barron)"_"female"_48_0_0_"17466"_25.9292
+"864"_0_3_"Sage, Miss. Dorothy Edith \"Dolly\""_"female"_NA_8_2_"CA. 2343"_69.55
+"865"_0_2_"Gill, Mr. John William"_"male"_24_0_0_"233866"_13
+"866"_1_2_"Bystrom, Mrs. (Karolina)"_"female"_42_0_0_"236852"_13
+"867"_1_2_"Duran y More, Miss. Asuncion"_"female"_27_1_0_"SC/PARIS 2149"_13.8583
+"868"_0_1_"Roebling, Mr. Washington Augustus II"_"male"_31_0_0_"PC 17590"_50.4958
+"869"_0_3_"van Melkebeke, Mr. Philemon"_"male"_NA_0_0_"345777"_9.5
+"870"_1_3_"Johnson, Master. Harold Theodor"_"male"_4_1_1_"347742"_11.1333
+"871"_0_3_"Balkic, Mr. Cerin"_"male"_26_0_0_"349248"_7.8958
+"872"_1_1_"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)"_"female"_47_1_1_"11751"_52.5542
+"873"_0_1_"Carlsson, Mr. Frans Olof"_"male"_33_0_0_"695"_5
+"874"_0_3_"Vander Cruyssen, Mr. Victor"_"male"_47_0_0_"345765"_9
+"875"_1_2_"Abelson, Mrs. Samuel (Hannah Wizosky)"_"female"_28_1_0_"P/PP 3381"_24
+"876"_1_3_"Najib, Miss. Adele Kiamie \"Jane\""_"female"_15_0_0_"2667"_7.225
+"877"_0_3_"Gustafsson, Mr. Alfred Ossian"_"male"_20_0_0_"7534"_9.8458
+"878"_0_3_"Petroff, Mr. Nedelio"_"male"_19_0_0_"349212"_7.8958
+"879"_0_3_"Laleff, Mr. Kristo"_"male"_NA_0_0_"349217"_7.8958
+"880"_1_1_"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)"_"female"_56_0_1_"11767"_83.1583
+"881"_1_2_"Shelley, Mrs. William (Imanita Parrish Hall)"_"female"_25_0_1_"230433"_26
+"882"_0_3_"Markun, Mr. Johann"_"male"_33_0_0_"349257"_7.8958
+"883"_0_3_"Dahlberg, Miss. Gerda Ulrika"_"female"_22_0_0_"7552"_10.5167
+"884"_0_2_"Banfield, Mr. Frederick James"_"male"_28_0_0_"C.A./SOTON 34068"_10.5
+"885"_0_3_"Sutehall, Mr. Henry Jr"_"male"_25_0_0_"SOTON/OQ 392076"_7.05
+"886"_0_3_"Rice, Mrs. William (Margaret Norton)"_"female"_39_0_5_"382652"_29.125
+"887"_0_2_"Montvila, Rev. Juozas"_"male"_27_0_0_"211536"_13
+"888"_1_1_"Graham, Miss. Margaret Edith"_"female"_19_0_0_"112053"_30
+"889"_0_3_"Johnston, Miss. Catherine Helen \"Carrie\""_"female"_NA_1_2_"W./C. 6607"_23.45
+"890"_1_1_"Behr, Mr. Karl Howell"_"male"_26_0_0_"111369"_30
+"891"_0_3_"Dooley, Mr. Patrick"_"male"_32_0_0_"370376"_7.75
