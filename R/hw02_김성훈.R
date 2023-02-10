@@ -42,3 +42,4 @@ if(i>=70){
 }}
 #22. If 조건문을 활용하여 raw_data의 Cabin 변수에서 결측값이 들어간 위치에 ‘DELETE’라는 값으로 변경하시오.
 raw_data[raw_data['Cabin'] == '', 'Cabin'] = 'DELETE'
+raw_data['Cabin'][1]
