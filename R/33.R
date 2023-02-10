@@ -71,3 +71,53 @@ y/cnt
 
 
 ####
+a <- c(1,3,5,6)
+std.ftn <- function(x){
+  return(list(mean=mean(x),var=var(x)))
+}
+l <- std.ftn(a) 
+l$mean
+
+
+a <- c(1,3,5)
+noact <- function(x,type=1){
+  if(type==1){a[1] <- 3}
+  if(type==2){a[1] <<- 3}
+  return(a)
+}
+noact(10)
+a
+noact(5,2)
+a
+
+
+install.packages("ggplot2") 
+library(ggplot2)
+par("mar")
+
+par(mar=c(1,1,1,1))
+
+draw_koch_snowflake <- function(order, x, y, len, angle) {
+  if (order == 0) {
+    x2 <- x + len * cos(angle)
+    y2 <- y + len * sin(angle)
+    plot(c(x, x2), c(y, y2))
+    
+    draw_koch_snowflake(order - 1, x2, y2, len * 0.8, angle - 30)
+    draw_koch_snowflake(order - 1, x2, y2, len * 0.8, angle - 30)
+  }
+  else {
+    len <- len / 3
+    draw_koch_snowflake(order - 1, x, y, len, angle)
+    x <- x + len * cos(angle)
+    y <- y + len * sin(angle)
+    angle <- angle + pi / 3
+    draw_koch_snowflake(order - 1, x, y, len, angle)
+    x <- x + len * cos(angle)
+    y <- y + len * sin(angle)
+    angle <- angle - 2 * pi / 3
+    draw_koch_snowflake(order - 1, x, y, len, angle)
+    x <- x + len * cos(angle)
+  }
+}
+draw_koch_snowflake(12,100,100,70,90)
