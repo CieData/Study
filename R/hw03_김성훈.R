@@ -71,3 +71,4 @@ googoo <- function(x,y){
   }
 }
 googoo(1,5)
+min(3,5)
