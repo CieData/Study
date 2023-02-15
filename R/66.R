@@ -38,3 +38,33 @@ sqrt(v)
 
 var(height)
 sd(height)
+
+
+
+# 실습
+airquality
+nrow(airquality) - sum(complete.cases(airquality))
+data <- na.omit(airquality)
+
+for(i in 1:6){
+  cat(names(data[i]),'\n')
+  cat(mean(data[[i]]),'\n')
+  cat(var(data[[i]]),'\n')
+  cat(sd(data[[i]]),'\n')
+  y <- table(data[i])
+  cat(names(which(y == max(y))),'\n\n')
+}
+
+
+## iris
+# 데이터 기본 정보 출력
+str(iris)
+
+# 결측치 체크 & 처리
+sum(is.na(iris))
+
+# 꽃받침 너비에 대한 이상치 체크
+boxplot.stats(iris$Sepal.Width)$out
+
+summary(iris)[2,]
+quantile(iris$Sepal.Width)
